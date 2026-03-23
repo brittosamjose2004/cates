@@ -464,7 +464,7 @@ class QuestionnaireEngine:
                 )
                 if within_attempt_budget and within_time_budget:
                     provisional_attempts += 1
-                    fallback = self._get_provisional_answer_bounded(indicator, timeout_seconds=4)
+                    fallback = self._get_provisional_answer_bounded(indicator, timeout_seconds=90)
                     if fallback and fallback.get("answer"):
                         self.save_answer(
                             indicator,

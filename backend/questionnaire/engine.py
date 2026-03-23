@@ -66,7 +66,7 @@ class QuestionnaireEngine:
     def _get_provisional_answer_bounded(
         self,
         indicator: Dict[str, Any],
-        timeout_seconds: int = 4,
+        timeout_seconds: int = 90,
     ) -> Optional[Dict[str, Any]]:
         """Bound online fallback latency per indicator to keep scoring deterministic."""
         if not self.provisional_scraper:

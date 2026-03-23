@@ -33,6 +33,7 @@ _default_origins = [
     "http://localhost:5174",
     "http://localhost:3000",
     "http://127.0.0.1:5173",
+    "http://135.235.139.191",
 ]
 _env_origins = [o.strip() for o in (os.getenv("FRONTEND_ORIGINS", "")).split(",") if o.strip()]
 

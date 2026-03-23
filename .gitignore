@@ -8,13 +8,12 @@ __pycache__/
 .venv/
 venv/
 
-# SQLite database
-data/*.db
-
 # Node
 node_modules/
 dist/
 .vite/
+frontend-dist/
+.tmp-npm-cache/
 
 # OS
 .DS_Store

@@ -1,0 +1,383 @@
+{
+  "generated_at": "2026-03-21T07:48:17.072376Z",
+  "company": {
+    "id": 29,
+    "name": "VODAFONE IDEA LIMITED",
+    "ticker": "IDEA-T0.NS",
+    "cin": "335800UBBFAK7HCF3209",
+    "sector": "GENERAL",
+    "exchange": "NSI",
+    "website": "",
+    "headquarters": "APAC"
+  },
+  "years": [
+    2023,
+    2025
+  ],
+  "counts": {
+    "scraped_data": 34,
+    "sessions": 2,
+    "answers": 6,
+    "jobs": 2
+  },
+  "scraped_data": [
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "52w_high",
+      "value": "9.88",
+      "scraped_at": "2026-03-21T07:38:26.219584"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "52w_low",
+      "value": "9.88",
+      "scraped_at": "2026-03-21T07:38:26.219586"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "about",
+      "value": "About Vodafone Idea is one of the leading telecom service providers in India. The Company is engaged in the business of Mobility and Long Distance services, trading of handsets and data cards. [1] Key Points Business Areas The company's business services include voice business/ services, broadband services, content services, enterprise services and other VAS offerings like entertainment, SMS, Utility, etc. [1] Read More Website BSE NSE",
+      "scraped_at": "2026-03-21T07:38:26.219611"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "company_name",
+      "value": "VODAFONE IDEA LIMITED",
+      "scraped_at": "2026-03-21T07:38:26.219569"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "currency",
+      "value": "INR",
+      "scraped_at": "2026-03-21T07:38:26.219581"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "exchange",
+      "value": "NSI",
+      "scraped_at": "2026-03-21T07:38:26.219579"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "official_name",
+      "value": "Vodafone Idea Ltd",
+      "scraped_at": "2026-03-21T07:38:26.219588"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Book Value",
+      "value": "\u20b9-7.61",
+      "scraped_at": "2026-03-21T07:38:26.219600"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Current Price",
+      "value": "\u20b99.34",
+      "scraped_at": "2026-03-21T07:38:26.219593"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Dividend Yield",
+      "value": "0.00%",
+      "scraped_at": "2026-03-21T07:38:26.219602"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Face Value",
+      "value": "\u20b910.0",
+      "scraped_at": "2026-03-21T07:38:26.219609"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_High / Low",
+      "value": "\u20b912.8/6.12",
+      "scraped_at": "2026-03-21T07:38:26.219595"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Market Cap",
+      "value": "\u20b91,01,192Cr.",
+      "scraped_at": "2026-03-21T07:38:26.219591"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROCE",
+      "value": "-1.93%",
+      "scraped_at": "2026-03-21T07:38:26.219604"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROE",
+      "value": "%",
+      "scraped_at": "2026-03-21T07:38:26.219606"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Stock P/E",
+      "value": "",
+      "scraped_at": "2026-03-21T07:38:26.219597"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "ticker",
+      "value": "IDEA-T0.NS",
+      "scraped_at": "2026-03-21T07:38:26.219576"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "52w_high",
+      "value": "9.88",
+      "scraped_at": "2026-03-21T07:38:39.241847"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "52w_low",
+      "value": "9.88",
+      "scraped_at": "2026-03-21T07:38:39.241851"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "about",
+      "value": "About Vodafone Idea is one of the leading telecom service providers in India. The Company is engaged in the business of Mobility and Long Distance services, trading of handsets and data cards. [1] Key Points Business Areas The company's business services include voice business/ services, broadband services, content services, enterprise services and other VAS offerings like entertainment, SMS, Utility, etc. [1] Read More Website BSE NSE",
+      "scraped_at": "2026-03-21T07:38:39.241905"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "company_name",
+      "value": "VODAFONE IDEA LIMITED",
+      "scraped_at": "2026-03-21T07:38:39.241815"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "currency",
+      "value": "INR",
+      "scraped_at": "2026-03-21T07:38:39.241841"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "exchange",
+      "value": "NSI",
+      "scraped_at": "2026-03-21T07:38:39.241836"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "official_name",
+      "value": "Vodafone Idea Ltd",
+      "scraped_at": "2026-03-21T07:38:39.241856"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Book Value",
+      "value": "\u20b9-7.61",
+      "scraped_at": "2026-03-21T07:38:39.241881"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Current Price",
+      "value": "\u20b99.34",
+      "scraped_at": "2026-03-21T07:38:39.241866"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Dividend Yield",
+      "value": "0.00%",
+      "scraped_at": "2026-03-21T07:38:39.241885"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Face Value",
+      "value": "\u20b910.0",
+      "scraped_at": "2026-03-21T07:38:39.241900"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_High / Low",
+      "value": "\u20b912.8/6.12",
+      "scraped_at": "2026-03-21T07:38:39.241871"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Market Cap",
+      "value": "\u20b91,01,192Cr.",
+      "scraped_at": "2026-03-21T07:38:39.241861"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_ROCE",
+      "value": "-1.93%",
+      "scraped_at": "2026-03-21T07:38:39.241890"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_ROE",
+      "value": "%",
+      "scraped_at": "2026-03-21T07:38:39.241895"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "sc_Stock P/E",
+      "value": "",
+      "scraped_at": "2026-03-21T07:38:39.241876"
+    },
+    {
+      "year": 2026,
+      "source": "yahoo",
+      "key": "ticker",
+      "value": "IDEA-T0.NS",
+      "scraped_at": "2026-03-21T07:38:39.241829"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 128,
+      "year": 2023,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 1,
+      "created_at": "2026-03-21T07:42:45.264457",
+      "updated_at": "2026-03-21T07:42:45.523636"
+    },
+    {
+      "id": 127,
+      "year": 2025,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 5,
+      "created_at": "2026-03-21T07:39:29.168442",
+      "updated_at": "2026-03-21T07:44:30.946485"
+    }
+  ],
+  "answers": [
+    {
+      "session_id": 128,
+      "year": 2023,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "VODAFONE IDEA LIMITED",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:42:45.551188"
+    },
+    {
+      "session_id": 127,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "Vodafone Idea Ltd | VODAFONE IDEA LIMITED | Ticker: IDEA-T0.NS | Listed on: NSI",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.95,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:39:29.727145"
+    },
+    {
+      "session_id": 127,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I02",
+      "module": "M01",
+      "indicator_name": "Business Activities & Products",
+      "answer_value": "About Vodafone Idea is one of the leading telecom service providers in India. The Company is engaged in the business of Mobility and Long Distance services, trading of handsets and data cards. [1] Key Points Business Areas The company's business services include voice business/ services, broadband services, content services, enterprise services and other VAS offerings like entertainment, SMS, Util",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.75,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:39:29.932866"
+    },
+    {
+      "session_id": 127,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I04",
+      "module": "M01",
+      "indicator_name": "Reporting Scope & Boundary",
+      "answer_value": "Reporting currency: INR | Listed exchange: NSI",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:40:45.132234"
+    },
+    {
+      "session_id": 127,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I07",
+      "module": "M02",
+      "indicator_name": "KPI Reporting Standards & Frameworks",
+      "answer_value": "Currency used: INR | Listed on: NSI",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.85,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:43:00.506753"
+    },
+    {
+      "session_id": 127,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I06",
+      "module": "M03",
+      "indicator_name": "Tax Governance & Transparency",
+      "answer_value": "Reporting currency: INR",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.85,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:44:30.947794"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 65,
+      "year": 2026,
+      "status": "FETCHING",
+      "error_msg": null,
+      "started_at": "2026-03-21T07:38:27.954700",
+      "finished_at": null
+    },
+    {
+      "id": 64,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Pipeline timed out after 10 minutes",
+      "started_at": "2026-03-21T07:38:14.650642",
+      "finished_at": "2026-03-21T07:48:16.948493"
+    }
+  ]
+}

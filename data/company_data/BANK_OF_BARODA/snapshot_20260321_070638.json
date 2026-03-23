@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-03-21T07:06:38.961670Z",
+  "company": {
+    "id": 26,
+    "name": "BANK OF BARODA",
+    "ticker": "BANKBARODA",
+    "cin": "549300CQ6M9Q0TJEZR23",
+    "sector": "GENERAL",
+    "exchange": "",
+    "website": "",
+    "headquarters": "NA"
+  },
+  "years": [],
+  "counts": {
+    "scraped_data": 0,
+    "sessions": 0,
+    "answers": 0,
+    "jobs": 1
+  },
+  "scraped_data": [],
+  "sessions": [],
+  "answers": [],
+  "jobs": [
+    {
+      "id": 55,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Traceback (most recent call last):\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 984, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 948, in main\n    print(\"\\u2554\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u",
+      "started_at": "2026-03-21T07:06:31.877499",
+      "finished_at": "2026-03-21T07:06:38.807468"
+    }
+  ]
+}

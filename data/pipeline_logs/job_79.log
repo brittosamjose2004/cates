@@ -1,0 +1,7 @@
+[2026-03-21 10:21:36] Started pipeline for company='COAL INDIA LIMITED', years=[2024], all_years=False
+[2026-03-21 10:21:37] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe -u C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --skip-questionnaire --companies COAL INDIA LIMITED --year 2024 --years 2024 --nse-symbol COALINDIA.NS --company-id 32
+[2026-03-21 10:21:37] run_all timeout budget: 900s
+[2026-03-21 10:22:37] run_all still running... elapsed=60s
+[2026-03-21 10:22:46] Fetch step completed; moving to scoring/fill step
+[2026-03-21 10:22:54] Direct questionnaire fill completed for year=2024; rows=21
+[2026-03-21 10:22:54] Pipeline completed successfully

@@ -1,0 +1,2 @@
+[2026-03-21 07:19:38] Started pipeline for company='APOLLO HOSPITALS ENTERPRISE LIMITED', years=[2025], all_years=False
+[2026-03-21 07:19:38] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --companies APOLLO HOSPITALS ENTERPRISE LIMITED --year 2025 --years 2025 --nse-symbol APOLLOHOSP --company-id 25

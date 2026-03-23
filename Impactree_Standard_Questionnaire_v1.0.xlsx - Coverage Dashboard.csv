@@ -1,0 +1,50 @@
+IMPACTREE COVERAGE DASHBOARD,,,,,
+Summary statistics for the Impactree Standard Questionnaire v1.0,,,,,
+,,,,,
+SOURCE QUESTIONS EXTRACTED,,,,,
+Standard,Questions Extracted,% of Total,,,
+BRSR,148,12.4%,,,
+CDP,452,37.8%,,,
+EcoVadis,52,4.4%,,,
+GRI,543,45.4%,,,
+TOTAL,1195,100%,,,
+,,,,,
+IMPACTREE INDICATORS COVERAGE (out of 151),,,,,
+Standard,Indicators Covered,% of 151 Indicators,,,
+BRSR,66,43.7%,,,
+CDP,55,36.4%,,,
+EcoVadis,33,21.9%,,,
+GRI,83,55.0%,,,
+,,,,,
+,,,,,
+MULTI-STANDARD DEPTH,,,,,
+Coverage Level,# Indicators,% of 151,,,
+⚪  No source mapping,20,13.2%,,,
+🔵  Single standard,60,39.7%,,,
+🟠  Two standards,40,26.5%,,,
+🟡  Three standards,27,17.9%,,,
+🟢  All four standards,4,2.6%,,,
+,,,,,
+MODULE BREAKDOWN,,,,,
+Module,# Indicators,BRSR,CDP,EcoVadis,
+M01 · General & Organizational Profile,7,6/7,6/7,0/7,4/7
+M02 · Sustainability Management & Reporting,8,5/8,4/8,6/8,4/8
+M03 · Governance & Ethics,9,8/9,3/9,2/9,8/9
+M04 · Risk & Opportunity Management,6,0/6,5/6,0/6,1/6
+M05 · GHG Emissions & Climate Change,9,2/9,8/9,4/9,9/9
+M06 · Energy,7,2/7,4/7,1/7,6/7
+M07 · Water & Effluents,10,2/10,4/10,2/10,5/10
+M08 · Waste & Materials,9,4/9,0/9,2/9,7/9
+M09 · Air Quality,7,1/7,1/7,1/7,1/7
+M10 · Biodiversity & Land Use,6,1/6,6/6,1/6,6/6
+M11 · Forests & Deforestation,5,0/5,5/5,0/5,0/5
+M12 · Plastics,5,0/5,5/5,0/5,0/5
+M13 · Supply Chain & Procurement,7,4/7,1/7,3/7,3/7
+M14 · Labor & Human Rights,13,10/13,0/13,7/13,10/13
+M15 · Occupational Health & Safety,10,3/10,0/10,1/10,7/10
+"M16 · Diversity, Equity & Inclusion",6,3/6,0/6,1/6,3/6
+M17 · Training & Skill Development,4,2/4,0/4,1/4,1/4
+M18 · Community & Social Impact,7,4/7,0/7,0/7,2/7
+M19 · Customer & Product Responsibility,8,5/8,0/8,1/8,4/8
+M20 · Economic Performance,4,2/4,3/4,0/4,1/4
+M21 · Legal & Environmental Compliance,4,2/4,0/4,0/4,1/4

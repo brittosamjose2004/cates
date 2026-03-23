@@ -1,0 +1,26 @@
+[2026-03-21 07:37:07] Started pipeline for company='GUJARAT GAS LIMITED', years=[2024, 2025, 2026], all_years=False
+[2026-03-21 07:37:07] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --companies GUJARAT GAS LIMITED --year 2026 --years 2024 2025 2026 --nse-symbol GUJGASLTD --company-id 28
+[2026-03-21 07:37:23] run_all stderr (tail):
+^^^^^^
+    )
+    ^
+  File "C:\Users\britt\AppData\Roaming\Python\Python314\site-packages\sqlalchemy\engine\base.py", line 2363, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\britt\AppData\Roaming\Python\Python314\site-packages\sqlalchemy\engine\base.py", line 2125, in _exec_insertmany_context
+    dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\britt\AppData\Roaming\Python\Python314\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: scraped_data.company_id, scraped_data.year, scraped_data.source, scraped_data.data_key
+[SQL: INSERT INTO scraped_data (company_id, year, source, data_key, data_value, scraped_at) VALUES (?, ?, ?, ?, ?, ?) RETURNING id]
+[parameters: (28, 2025, 'yahoo_historical', 'Tax Effect Of Unusual Items', '-26326700.485991', '2026-03-21 07:37:21.907770')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-03-21 07:37:23] Pipeline failed with return code 1

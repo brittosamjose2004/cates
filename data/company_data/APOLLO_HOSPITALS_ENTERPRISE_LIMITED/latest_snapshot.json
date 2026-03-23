@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-03-21T07:18:38.031071Z",
+  "company": {
+    "id": 25,
+    "name": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+    "ticker": "APOLLOHOSP",
+    "cin": "3358005YT7JQCWYLTG43",
+    "sector": "GENERAL",
+    "exchange": "",
+    "website": "",
+    "headquarters": "NA"
+  },
+  "years": [
+    2021,
+    2025
+  ],
+  "counts": {
+    "scraped_data": 0,
+    "sessions": 2,
+    "answers": 2,
+    "jobs": 3
+  },
+  "scraped_data": [],
+  "sessions": [
+    {
+      "id": 124,
+      "year": 2021,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 1,
+      "created_at": "2026-03-21T06:46:45.199042",
+      "updated_at": "2026-03-21T06:46:45.473151"
+    },
+    {
+      "id": 123,
+      "year": 2025,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 1,
+      "created_at": "2026-03-21T06:46:31.991193",
+      "updated_at": "2026-03-21T06:46:32.230829"
+    }
+  ],
+  "answers": [
+    {
+      "session_id": 124,
+      "year": 2021,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T06:46:45.477230"
+    },
+    {
+      "session_id": 123,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T06:46:32.235330"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 59,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Traceback (most recent call last):\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 984, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 948, in main\n    print(\"\\u2554\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u",
+      "started_at": "2026-03-21T07:18:36.214580",
+      "finished_at": "2026-03-21T07:18:37.782060"
+    },
+    {
+      "id": 54,
+      "year": 2026,
+      "status": "FETCHING",
+      "error_msg": null,
+      "started_at": "2026-03-21T06:46:42.192612",
+      "finished_at": null
+    },
+    {
+      "id": 53,
+      "year": 2025,
+      "status": "FETCHING",
+      "error_msg": null,
+      "started_at": "2026-03-21T06:46:21.410914",
+      "finished_at": null
+    }
+  ]
+}

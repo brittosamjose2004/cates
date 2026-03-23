@@ -1,0 +1,2 @@
+[2026-03-21 08:41:30] Started pipeline for company='ITC LIMITED', years=[2025], all_years=False
+[2026-03-21 08:41:31] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --companies ITC LIMITED --year 2025 --years 2025 --nse-symbol ITC --company-id 30

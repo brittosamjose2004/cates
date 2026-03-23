@@ -1,0 +1,562 @@
+{
+  "generated_at": "2026-03-21T08:00:44.737992Z",
+  "company": {
+    "id": 30,
+    "name": "ITC LIMITED",
+    "ticker": "ITC",
+    "cin": "",
+    "sector": "Consumer Goods",
+    "exchange": "YHD",
+    "website": "",
+    "headquarters": "APAC"
+  },
+  "years": [
+    2025
+  ],
+  "counts": {
+    "scraped_data": 40,
+    "sessions": 1,
+    "answers": 18,
+    "jobs": 1
+  },
+  "scraped_data": [
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_attrition_rate",
+      "value": "13.4 %",
+      "scraped_at": "2026-03-21T07:52:13.668878"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_board_size",
+      "value": "16 directors",
+      "scraped_at": "2026-03-21T07:52:13.668888"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_cin",
+      "value": "L16005WB1910PLC001985",
+      "scraped_at": "2026-03-21T07:52:13.668893"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_csr_projects",
+      "value": "2024 count",
+      "scraped_at": "2026-03-21T07:52:13.668917"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_fatalities",
+      "value": "0 count",
+      "scraped_at": "2026-03-21T07:52:13.668848"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_female_employees",
+      "value": "1932 count",
+      "scraped_at": "2026-03-21T07:52:13.668868"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_incorporation_year",
+      "value": "1910",
+      "scraped_at": "2026-03-21T07:52:13.668898"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_iso14001_cert",
+      "value": "ISO 14001 ISO 14001 certified",
+      "scraped_at": "2026-03-21T07:52:13.668908"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_iso45001_cert",
+      "value": "OHSAS \n18001 OHS certified",
+      "scraped_at": "2026-03-21T07:52:13.668913"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_male_employees",
+      "value": "9234 count",
+      "scraped_at": "2026-03-21T07:52:13.668864"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_msme_sourcing_pct",
+      "value": "7.22 % of procurement",
+      "scraped_at": "2026-03-21T07:52:13.668922"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_nonrenewable_energy",
+      "value": "12357 MJ",
+      "scraped_at": "2026-03-21T07:52:13.668815"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_nox_emissions",
+      "value": "2064 MT",
+      "scraped_at": "2026-03-21T07:52:13.668830"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_pm_emissions",
+      "value": "553 MT",
+      "scraped_at": "2026-03-21T07:52:13.668843"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_renewable_energy",
+      "value": "13434 MJ",
+      "scraped_at": "2026-03-21T07:52:13.668810"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_safety_incidents",
+      "value": "2 count",
+      "scraped_at": "2026-03-21T07:52:13.668853"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_scope1_ghg",
+      "value": "1101 tCO2e",
+      "scraped_at": "2026-03-21T07:52:13.668788"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_scope2_ghg",
+      "value": "153 tCO2e",
+      "scraped_at": "2026-03-21T07:52:13.668799"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_sh_complaints",
+      "value": "1 cases filed",
+      "scraped_at": "2026-03-21T07:52:13.668903"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_sox_emissions",
+      "value": "2287 MT",
+      "scraped_at": "2026-03-21T07:52:13.668835"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_total_employees",
+      "value": "11691 count",
+      "scraped_at": "2026-03-21T07:52:13.668859"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_total_energy",
+      "value": "25791 MJ",
+      "scraped_at": "2026-03-21T07:52:13.668805"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_total_workers",
+      "value": "35667 count",
+      "scraped_at": "2026-03-21T07:52:13.668873"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_water_intensity",
+      "value": "88 KL/employee",
+      "scraped_at": "2026-03-21T07:52:13.668825"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_water_withdrawal",
+      "value": "31.2 KL",
+      "scraped_at": "2026-03-21T07:52:13.668820"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_women_percent",
+      "value": "100 %",
+      "scraped_at": "2026-03-21T07:52:13.668883"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "about",
+      "value": "About Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present \u2014 FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business. [1] Key Points Business Segments 1) FMCG Cigarettes (42% in H1 FY25 vs 40% in FY22): [1] [2] The company holds an 80% market share in the organized domestic cigarette market, offering brands like Insignia, India Kings, Classic, Gold Flake, American Club, Wills Navy Cut, Players, Scissors, Capstan, Berkeley, etc. This vertical is the most profitable business of the co",
+      "scraped_at": "2026-03-21T07:51:32.394068"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "company_name",
+      "value": "ITC LIMITED",
+      "scraped_at": "2026-03-21T07:51:32.394031"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "exchange",
+      "value": "YHD",
+      "scraped_at": "2026-03-21T07:51:32.394042"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "official_name",
+      "value": "ITC Ltd",
+      "scraped_at": "2026-03-21T07:51:32.394045"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Book Value",
+      "value": "\u20b956.7",
+      "scraped_at": "2026-03-21T07:51:32.394056"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Current Price",
+      "value": "\u20b9300",
+      "scraped_at": "2026-03-21T07:51:32.394049"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Dividend Yield",
+      "value": "4.78%",
+      "scraped_at": "2026-03-21T07:51:32.394058"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Face Value",
+      "value": "\u20b91.00",
+      "scraped_at": "2026-03-21T07:51:32.394065"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_High / Low",
+      "value": "\u20b9444/297",
+      "scraped_at": "2026-03-21T07:51:32.394052"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Market Cap",
+      "value": "\u20b93,75,821Cr.",
+      "scraped_at": "2026-03-21T07:51:32.394047"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROCE",
+      "value": "36.8%",
+      "scraped_at": "2026-03-21T07:51:32.394061"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROE",
+      "value": "27.3%",
+      "scraped_at": "2026-03-21T07:51:32.394063"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Stock P/E",
+      "value": "18.2",
+      "scraped_at": "2026-03-21T07:51:32.394054"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "ticker",
+      "value": "ITC",
+      "scraped_at": "2026-03-21T07:51:32.394037"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 129,
+      "year": 2025,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 18,
+      "created_at": "2026-03-21T07:52:14.593029",
+      "updated_at": "2026-03-21T08:00:33.857968"
+    }
+  ],
+  "answers": [
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "ITC Ltd | ITC LIMITED | CIN: L16005WB1910PLC001985 | Year of incorporation: 1910 | Ticker: ITC | Listed on: YHD",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.95,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:52:14.974132"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I02",
+      "module": "M01",
+      "indicator_name": "Business Activities & Products",
+      "answer_value": "About Established in 1910, ITC is the largest cigarette manufacturer and seller in the country. ITC operates in four business segments at present \u2014 FMCG Cigarettes, FMCG Others, Paperboards, Paper and Packaging, and Agri Business. [1] Key Points Business Segments 1) FMCG Cigarettes (42% in H1 FY25 vs 40% in FY22): [1] [2] The company holds an 80% market share in the organized domestic cigarette ma",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.75,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:52:15.164759"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I04",
+      "module": "M01",
+      "indicator_name": "Reporting Scope & Boundary",
+      "answer_value": "Listed exchange: YHD",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.8,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:53:30.481736"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I01",
+      "module": "M02",
+      "indicator_name": "Sustainability Policies & Commitments",
+      "answer_value": "ISO 14001: ISO 14001 ISO 14001 certified | OHS certification: OHSAS \n18001 OHS certified",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:54:15.675214"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I03",
+      "module": "M02",
+      "indicator_name": "Certifications & Standards Adopted",
+      "answer_value": "Environmental: ISO 14001 ISO 14001 certified | OHS: OHSAS \n18001 OHS certified",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:54:30.899793"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I07",
+      "module": "M02",
+      "indicator_name": "KPI Reporting Standards & Frameworks",
+      "answer_value": "Listed on: YHD",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.8,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:55:16.069458"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I01",
+      "module": "M03",
+      "indicator_name": "Board Oversight of ESG",
+      "answer_value": "Total board strength: 16 directors",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:55:31.283358"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I02",
+      "module": "M03",
+      "indicator_name": "Management Responsibility for ESG",
+      "answer_value": "Board size: 16 directors",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.8,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:55:31.426148"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I03",
+      "module": "M03",
+      "indicator_name": "Anti-Corruption & Anti-Bribery",
+      "answer_value": "Sexual harassment cases: 1 cases filed",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.88,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:55:31.609553"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I08",
+      "module": "M03",
+      "indicator_name": "Grievance & Whistleblower Mechanisms",
+      "answer_value": "Sexual harassment complaints: 1 cases filed",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.88,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:56:31.831450"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M04-I04",
+      "module": "M04",
+      "indicator_name": "Water-Related Risks",
+      "answer_value": "Total water withdrawal: 31.2 KL (context for water risk) | Water intensity: 88 KL/employee",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.7,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:57:32.087290"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M05-I01",
+      "module": "M05",
+      "indicator_name": "Scope 1 (Direct) GHG Emissions",
+      "answer_value": "1101 tCO2e",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:58:02.289094"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M05-I02",
+      "module": "M05",
+      "indicator_name": "Scope 2 (Indirect) GHG Emissions",
+      "answer_value": "153 tCO2e",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:58:02.468940"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M06-I01",
+      "module": "M06",
+      "indicator_name": "Total Energy Consumption",
+      "answer_value": "25791 MJ",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:59:47.675696"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M06-I02",
+      "module": "M06",
+      "indicator_name": "Renewable Energy Consumption",
+      "answer_value": "13434 MJ",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:59:47.843215"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M06-I03",
+      "module": "M06",
+      "indicator_name": "Non-Renewable Energy Consumption",
+      "answer_value": "12357 MJ",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T07:59:48.063965"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M06-I07",
+      "module": "M06",
+      "indicator_name": "Energy Efficiency Initiatives",
+      "answer_value": "Renewable energy used: 13434 MJ",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.8,
+      "is_verified": false,
+      "updated_at": "2026-03-21T08:00:33.615147"
+    },
+    {
+      "session_id": 129,
+      "year": 2025,
+      "indicator_id": "IMP-M07-I01",
+      "module": "M07",
+      "indicator_name": "Water Withdrawal by Source",
+      "answer_value": "31.2 KL",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T08:00:33.867494"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 66,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Pipeline timed out after 10 minutes",
+      "started_at": "2026-03-21T07:50:43.468967",
+      "finished_at": "2026-03-21T08:00:44.513504"
+    }
+  ]
+}

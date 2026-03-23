@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-03-21T07:14:11.164497Z",
+  "company": {
+    "id": 27,
+    "name": "IDBI BANK LIMITED",
+    "ticker": "IDBI",
+    "cin": "335800UL1OJYBFEAPY30",
+    "sector": "GENERAL",
+    "exchange": "",
+    "website": "",
+    "headquarters": "APAC"
+  },
+  "years": [],
+  "counts": {
+    "scraped_data": 0,
+    "sessions": 0,
+    "answers": 0,
+    "jobs": 2
+  },
+  "scraped_data": [],
+  "sessions": [],
+  "answers": [],
+  "jobs": [
+    {
+      "id": 58,
+      "year": 2026,
+      "status": "ERROR",
+      "error_msg": "Traceback (most recent call last):\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 984, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 948, in main\n    print(\"\\u2554\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u",
+      "started_at": "2026-03-21T07:14:09.861981",
+      "finished_at": "2026-03-21T07:14:11.016191"
+    },
+    {
+      "id": 57,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Traceback (most recent call last):\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 984, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\britt\\Downloads\\new_sap-main\\new_sap-main\\run_all.py\", line 948, in main\n    print(\"\\u2554\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u2550\\u",
+      "started_at": "2026-03-21T07:13:53.471800",
+      "finished_at": "2026-03-21T07:13:55.230735"
+    }
+  ]
+}

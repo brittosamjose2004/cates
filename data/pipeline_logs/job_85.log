@@ -1,0 +1,7 @@
+[2026-03-21 11:02:58] Started pipeline for company='COAL INDIA LIMITED', years=[2025], all_years=False
+[2026-03-21 11:02:58] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe -u C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --skip-questionnaire --companies COAL INDIA LIMITED --year 2025 --years 2025 --nse-symbol COALINDIA --company-id 32
+[2026-03-21 11:02:58] run_all timeout budget: 900s
+[2026-03-21 11:03:59] run_all still running... elapsed=60s
+[2026-03-21 11:04:59] run_all still running... elapsed=120s
+[2026-03-21 11:05:59] run_all still running... elapsed=180s
+[2026-03-21 11:06:59] run_all still running... elapsed=240s

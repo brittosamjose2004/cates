@@ -1,0 +1,5344 @@
+{
+  "generated_at": "2026-03-21T09:33:07.656376Z",
+  "company": {
+    "id": 32,
+    "name": "COAL INDIA LIMITED",
+    "ticker": "COALINDIA.NS",
+    "cin": "335800NLJQZNHM9LBB31",
+    "sector": "Energy",
+    "exchange": "NSI",
+    "website": "https://www.coalindia.in",
+    "headquarters": "Kolkata, India"
+  },
+  "years": [
+    2025
+  ],
+  "counts": {
+    "scraped_data": 719,
+    "sessions": 1,
+    "answers": 19,
+    "jobs": 3
+  },
+  "scraped_data": [
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "Net Income Discontinuous Operations",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.963274"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "Rent Expense Supplemental",
+      "value": "116709600000",
+      "scraped_at": "2026-03-21T09:18:26.962721"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Allowance For Doubtful Accounts Receivable",
+      "value": "-25427300000",
+      "scraped_at": "2026-03-21T09:18:26.966568"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Held To Maturity Securities",
+      "value": "6499500000",
+      "scraped_at": "2026-03-21T09:18:26.964923"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Net Debt",
+      "value": "7704900000",
+      "scraped_at": "2026-03-21T09:18:26.963824"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Pension And Other Postretirement Benefit Plans",
+      "value": "631786100000",
+      "scraped_at": "2026-03-21T09:18:26.964373"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Other Inventories",
+      "value": "86800000",
+      "scraped_at": "2026-03-21T09:18:26.965470"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "bs_Work In Process",
+      "value": "1974900000",
+      "scraped_at": "2026-03-21T09:18:26.966017"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "cf_Common Stock Dividend Paid",
+      "value": "-77063600000",
+      "scraped_at": "2026-03-21T09:18:26.967124"
+    },
+    {
+      "year": 2021,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Investment Securities",
+      "value": "10200000",
+      "scraped_at": "2026-03-21T09:18:26.967734"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Basic Average Shares",
+      "value": "6161909833",
+      "scraped_at": "2026-03-21T09:18:26.880534"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Basic EPS",
+      "value": "28.17",
+      "scraped_at": "2026-03-21T09:18:26.881637"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Cost Of Revenue",
+      "value": "189226900000",
+      "scraped_at": "2026-03-21T09:18:26.896806"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Diluted Average Shares",
+      "value": "6161909833",
+      "scraped_at": "2026-03-21T09:18:26.879953"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Diluted EPS",
+      "value": "28.17",
+      "scraped_at": "2026-03-21T09:18:26.881085"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Diluted NI Availto Com Stockholders",
+      "value": "173581000000",
+      "scraped_at": "2026-03-21T09:18:26.882191"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "EBIT",
+      "value": "241577700000",
+      "scraped_at": "2026-03-21T09:18:26.875497"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "EBITDA",
+      "value": "285864400000",
+      "scraped_at": "2026-03-21T09:18:26.874941"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "General And Administrative Expense",
+      "value": "1942400000",
+      "scraped_at": "2026-03-21T09:18:26.895075"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Gross Profit",
+      "value": "816398800000",
+      "scraped_at": "2026-03-21T09:18:26.896255"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Interest Expense",
+      "value": "5414900000",
+      "scraped_at": "2026-03-21T09:18:26.876641"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Interest Expense Non Operating",
+      "value": "5414900000",
+      "scraped_at": "2026-03-21T09:18:26.890565"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Interest Income",
+      "value": "16334900000",
+      "scraped_at": "2026-03-21T09:18:26.877192"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Interest Income Non Operating",
+      "value": "16334900000",
+      "scraped_at": "2026-03-21T09:18:26.891132"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Minority Interests",
+      "value": "-203200000",
+      "scraped_at": "2026-03-21T09:18:26.884402"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income",
+      "value": "173581000000",
+      "scraped_at": "2026-03-21T09:18:26.883850"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income Common Stockholders",
+      "value": "173581000000",
+      "scraped_at": "2026-03-21T09:18:26.882746"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income Continuous Operations",
+      "value": "173784200000",
+      "scraped_at": "2026-03-21T09:18:26.885504"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing And Discontinued Operation",
+      "value": "173581000000",
+      "scraped_at": "2026-03-21T09:18:26.878293"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing Operation Net Minority Interest",
+      "value": "173581000000",
+      "scraped_at": "2026-03-21T09:18:26.873284"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Income Including Noncontrolling Interests",
+      "value": "173784200000",
+      "scraped_at": "2026-03-21T09:18:26.884951"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Interest Income",
+      "value": "-5414900000",
+      "scraped_at": "2026-03-21T09:18:26.876085"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Net Non Operating Interest Income Expense",
+      "value": "-5414900000",
+      "scraped_at": "2026-03-21T09:18:26.889369"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Normalized EBITDA",
+      "value": "285980000000",
+      "scraped_at": "2026-03-21T09:18:26.871632"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Normalized Income",
+      "value": "173666066121.84476",
+      "scraped_at": "2026-03-21T09:18:26.877743"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Operating Expense",
+      "value": "575825100000",
+      "scraped_at": "2026-03-21T09:18:26.892303"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Operating Income",
+      "value": "240573700000",
+      "scraped_at": "2026-03-21T09:18:26.891743"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Operating Revenue",
+      "value": "1005625700000",
+      "scraped_at": "2026-03-21T09:18:26.897913"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Other Non Operating Income Expenses",
+      "value": "1205500000",
+      "scraped_at": "2026-03-21T09:18:26.887169"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Other Operating Expenses",
+      "value": "262621500000",
+      "scraped_at": "2026-03-21T09:18:26.892858"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Other Special Charges",
+      "value": "154800000",
+      "scraped_at": "2026-03-21T09:18:26.888263"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Otherunder Preferred Stock Dividend",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.883297"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Pretax Income",
+      "value": "236162800000",
+      "scraped_at": "2026-03-21T09:18:26.886618"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Reconciled Cost Of Revenue",
+      "value": "189226900000",
+      "scraped_at": "2026-03-21T09:18:26.874388"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Reconciled Depreciation",
+      "value": "44286700000",
+      "scraped_at": "2026-03-21T09:18:26.873837"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Rent And Landing Fees",
+      "value": "141186800000",
+      "scraped_at": "2026-03-21T09:18:26.895700"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Rent Expense Supplemental",
+      "value": "141186800000",
+      "scraped_at": "2026-03-21T09:18:26.879402"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Research And Development",
+      "value": "318200000",
+      "scraped_at": "2026-03-21T09:18:26.893409"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Selling And Marketing Expense",
+      "value": "552100000",
+      "scraped_at": "2026-03-21T09:18:26.894519"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Selling General And Administration",
+      "value": "2494500000",
+      "scraped_at": "2026-03-21T09:18:26.893962"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Special Income Charges",
+      "value": "-115600000",
+      "scraped_at": "2026-03-21T09:18:26.887716"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Tax Effect Of Unusual Items",
+      "value": "-30533878.155239",
+      "scraped_at": "2026-03-21T09:18:26.870399"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Tax Provision",
+      "value": "62378600000",
+      "scraped_at": "2026-03-21T09:18:26.886062"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Tax Rate For Calcs",
+      "value": "0.264134",
+      "scraped_at": "2026-03-21T09:18:26.871075"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Total Expenses",
+      "value": "765052000000",
+      "scraped_at": "2026-03-21T09:18:26.878847"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Total Other Finance Cost",
+      "value": "311800000",
+      "scraped_at": "2026-03-21T09:18:26.889959"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Total Revenue",
+      "value": "1005625700000",
+      "scraped_at": "2026-03-21T09:18:26.897359"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items",
+      "value": "-115600000",
+      "scraped_at": "2026-03-21T09:18:26.872184"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items Excluding Goodwill",
+      "value": "-115600000",
+      "scraped_at": "2026-03-21T09:18:26.872737"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "Write Off",
+      "value": "115600000",
+      "scraped_at": "2026-03-21T09:18:26.888813"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Payable",
+      "value": "86035300000",
+      "scraped_at": "2026-03-21T09:18:26.919955"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Receivable",
+      "value": "113676800000",
+      "scraped_at": "2026-03-21T09:18:26.938931"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Accumulated Depreciation",
+      "value": "-215353600000",
+      "scraped_at": "2026-03-21T09:18:26.928333"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Additional Paid In Capital",
+      "value": "12029600000",
+      "scraped_at": "2026-03-21T09:18:26.906727"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Allowance For Doubtful Accounts Receivable",
+      "value": "-24245300000",
+      "scraped_at": "2026-03-21T09:18:26.939570"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Available For Sale Securities",
+      "value": "144988700000",
+      "scraped_at": "2026-03-21T09:18:26.924998"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Buildings And Improvements",
+      "value": "51225200000",
+      "scraped_at": "2026-03-21T09:18:26.931089"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Lease Obligations",
+      "value": "2038800000",
+      "scraped_at": "2026-03-21T09:18:26.902328"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.907284"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Cash And Cash Equivalents",
+      "value": "70634800000",
+      "scraped_at": "2026-03-21T09:18:26.942204"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Cash Equivalents And Short Term Investments",
+      "value": "390797700000",
+      "scraped_at": "2026-03-21T09:18:26.940841"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Equivalents",
+      "value": "48719500000",
+      "scraped_at": "2026-03-21T09:18:26.942871"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Financial",
+      "value": "14057500000",
+      "scraped_at": "2026-03-21T09:18:26.943617"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.907842"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock Equity",
+      "value": "431430400000",
+      "scraped_at": "2026-03-21T09:18:26.902878"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Construction In Progress",
+      "value": "129246800000",
+      "scraped_at": "2026-03-21T09:18:26.929442"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Assets",
+      "value": "928459900000",
+      "scraped_at": "2026-03-21T09:18:26.932738"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Capital Lease Obligation",
+      "value": "442200000",
+      "scraped_at": "2026-03-21T09:18:26.915531"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt",
+      "value": "79800000",
+      "scraped_at": "2026-03-21T09:18:26.916079"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt And Capital Lease Obligation",
+      "value": "522000000",
+      "scraped_at": "2026-03-21T09:18:26.914981"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Liabilities",
+      "value": "572085100000",
+      "scraped_at": "2026-03-21T09:18:26.913884"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Current Provisions",
+      "value": "62243900000",
+      "scraped_at": "2026-03-21T09:18:26.917172"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Dividends Payable",
+      "value": "151800000",
+      "scraped_at": "2026-03-21T09:18:26.918856"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Finished Goods",
+      "value": "54128800000",
+      "scraped_at": "2026-03-21T09:18:26.936038"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Goodwill And Other Intangible Assets",
+      "value": "2012300000",
+      "scraped_at": "2026-03-21T09:18:26.926676"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Gross Accounts Receivable",
+      "value": "137922100000",
+      "scraped_at": "2026-03-21T09:18:26.940207"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Gross PPE",
+      "value": "941551500000",
+      "scraped_at": "2026-03-21T09:18:26.928886"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Held To Maturity Securities",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.924445"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Inventory",
+      "value": "70756800000",
+      "scraped_at": "2026-03-21T09:18:26.934934"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Invested Capital",
+      "value": "464528000000",
+      "scraped_at": "2026-03-21T09:18:26.900679"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentin Financial Assets",
+      "value": "144988700000",
+      "scraped_at": "2026-03-21T09:18:26.923896"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentsin Joint Venturesat Cost",
+      "value": "24268900000",
+      "scraped_at": "2026-03-21T09:18:26.926115"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Land And Improvements",
+      "value": "214830000000",
+      "scraped_at": "2026-03-21T09:18:26.931637"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Capital Lease Obligation",
+      "value": "1596600000",
+      "scraped_at": "2026-03-21T09:18:26.912239"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt",
+      "value": "33017800000",
+      "scraped_at": "2026-03-21T09:18:26.912789"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt And Capital Lease Obligation",
+      "value": "34614400000",
+      "scraped_at": "2026-03-21T09:18:26.911689"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Equity Investment",
+      "value": "24268900000",
+      "scraped_at": "2026-03-21T09:18:26.925554"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Provisions",
+      "value": "791909200000",
+      "scraped_at": "2026-03-21T09:18:26.913335"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Machinery Furniture Equipment",
+      "value": "329525100000",
+      "scraped_at": "2026-03-21T09:18:26.930542"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Minority Interest",
+      "value": "6737900000",
+      "scraped_at": "2026-03-21T09:18:26.904523"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Net PPE",
+      "value": "726197900000",
+      "scraped_at": "2026-03-21T09:18:26.927782"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Net Tangible Assets",
+      "value": "429418100000",
+      "scraped_at": "2026-03-21T09:18:26.901778"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Assets",
+      "value": "2577500000",
+      "scraped_at": "2026-03-21T09:18:26.922778"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Revenue",
+      "value": "6539700000",
+      "scraped_at": "2026-03-21T09:18:26.910593"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Assets",
+      "value": "41284200000",
+      "scraped_at": "2026-03-21T09:18:26.923346"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Liabilities",
+      "value": "8013500000",
+      "scraped_at": "2026-03-21T09:18:26.911142"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Pension And Other Postretirement Benefit Plans",
+      "value": "659440000000",
+      "scraped_at": "2026-03-21T09:18:26.910046"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Prepaid Assets",
+      "value": "37818400000",
+      "scraped_at": "2026-03-21T09:18:26.922162"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Ordinary Shares Number",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.898460"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Assets",
+      "value": "268993500000",
+      "scraped_at": "2026-03-21T09:18:26.933290"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Liabilities",
+      "value": "308973200000",
+      "scraped_at": "2026-03-21T09:18:26.914430"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Equity Interest",
+      "value": "369803100000",
+      "scraped_at": "2026-03-21T09:18:26.905627"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Intangible Assets",
+      "value": "2012300000",
+      "scraped_at": "2026-03-21T09:18:26.927229"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Inventories",
+      "value": "90100000",
+      "scraped_at": "2026-03-21T09:18:26.935483"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Assets",
+      "value": "64079400000",
+      "scraped_at": "2026-03-21T09:18:26.921609"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Liabilities",
+      "value": "65277100000",
+      "scraped_at": "2026-03-21T09:18:26.909495"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Payable",
+      "value": "116461000000",
+      "scraped_at": "2026-03-21T09:18:26.918266"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Properties",
+      "value": "140116800000",
+      "scraped_at": "2026-03-21T09:18:26.929990"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Receivables",
+      "value": "3200000",
+      "scraped_at": "2026-03-21T09:18:26.937686"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Other Short Term Investments",
+      "value": "320162900000",
+      "scraped_at": "2026-03-21T09:18:26.941523"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Payables",
+      "value": "86035300000",
+      "scraped_at": "2026-03-21T09:18:26.917719"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Pensionand Other Post Retirement Benefit Plans Current",
+      "value": "37866800000",
+      "scraped_at": "2026-03-21T09:18:26.916626"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Prepaid Assets",
+      "value": "167828900000",
+      "scraped_at": "2026-03-21T09:18:26.934384"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Properties",
+      "value": "76607600000",
+      "scraped_at": "2026-03-21T09:18:26.932189"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Raw Materials",
+      "value": "15616400000",
+      "scraped_at": "2026-03-21T09:18:26.937135"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Restricted Cash",
+      "value": "8663300000",
+      "scraped_at": "2026-03-21T09:18:26.933835"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Retained Earnings",
+      "value": "174518000000",
+      "scraped_at": "2026-03-21T09:18:26.906176"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Share Issued",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.899027"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Stockholders Equity",
+      "value": "431430400000",
+      "scraped_at": "2026-03-21T09:18:26.905077"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Tangible Book Value",
+      "value": "429418100000",
+      "scraped_at": "2026-03-21T09:18:26.900128"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Taxes Receivable",
+      "value": "84231900000",
+      "scraped_at": "2026-03-21T09:18:26.938264"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Assets",
+      "value": "1934846000000",
+      "scraped_at": "2026-03-21T09:18:26.920501"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Capitalization",
+      "value": "464448200000",
+      "scraped_at": "2026-03-21T09:18:26.903428"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Debt",
+      "value": "35136400000",
+      "scraped_at": "2026-03-21T09:18:26.899581"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Equity Gross Minority Interest",
+      "value": "438168300000",
+      "scraped_at": "2026-03-21T09:18:26.903976"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Liabilities Net Minority Interest",
+      "value": "1496677700000",
+      "scraped_at": "2026-03-21T09:18:26.908395"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Assets",
+      "value": "1006386100000",
+      "scraped_at": "2026-03-21T09:18:26.921052"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Liabilities Net Minority Interest",
+      "value": "924592600000",
+      "scraped_at": "2026-03-21T09:18:26.908946"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Total Tax Payable",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.919409"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Work In Process",
+      "value": "921500000",
+      "scraped_at": "2026-03-21T09:18:26.936585"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "bs_Working Capital",
+      "value": "356374800000",
+      "scraped_at": "2026-03-21T09:18:26.901228"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Beginning Cash Position",
+      "value": "51122800000",
+      "scraped_at": "2026-03-21T09:18:26.945864"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Capital Expenditure",
+      "value": "-120237000000",
+      "scraped_at": "2026-03-21T09:18:26.944754"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Cash Dividends Paid",
+      "value": "-107833700000",
+      "scraped_at": "2026-03-21T09:18:26.948073"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Inventory",
+      "value": "18717900000",
+      "scraped_at": "2026-03-21T09:18:26.957771"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Liabilities",
+      "value": "107574500000",
+      "scraped_at": "2026-03-21T09:18:26.956671"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Payable",
+      "value": "1303900000",
+      "scraped_at": "2026-03-21T09:18:26.957223"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Receivables",
+      "value": "39607100000",
+      "scraped_at": "2026-03-21T09:18:26.958317"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Working Capital",
+      "value": "167203400000",
+      "scraped_at": "2026-03-21T09:18:26.956117"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Changes In Cash",
+      "value": "19510200000",
+      "scraped_at": "2026-03-21T09:18:26.946419"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Common Stock Dividend Paid",
+      "value": "-107833700000",
+      "scraped_at": "2026-03-21T09:18:26.948626"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation",
+      "value": "44286700000",
+      "scraped_at": "2026-03-21T09:18:26.960519"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation And Amortization",
+      "value": "44286700000",
+      "scraped_at": "2026-03-21T09:18:26.959969"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_End Cash Position",
+      "value": "70633000000",
+      "scraped_at": "2026-03-21T09:18:26.945309"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Financing Cash Flow",
+      "value": "-134412400000",
+      "scraped_at": "2026-03-21T09:18:26.946974"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Free Cash Flow",
+      "value": "290830700000",
+      "scraped_at": "2026-03-21T09:18:26.944192"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Investment Securities",
+      "value": "154800000",
+      "scraped_at": "2026-03-21T09:18:26.961068"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Sale Of PPE",
+      "value": "154800000",
+      "scraped_at": "2026-03-21T09:18:26.961620"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Paid Cff",
+      "value": "-846800000",
+      "scraped_at": "2026-03-21T09:18:26.947525"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Received Cfi",
+      "value": "10986100000",
+      "scraped_at": "2026-03-21T09:18:26.950967"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Investing Cash Flow",
+      "value": "-257145100000",
+      "scraped_at": "2026-03-21T09:18:26.950376"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net Business Purchase And Sale",
+      "value": "-7676500000",
+      "scraped_at": "2026-03-21T09:18:26.952081"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net Income From Continuing Operations",
+      "value": "236162800000",
+      "scraped_at": "2026-03-21T09:18:26.962171"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net Investment Purchase And Sale",
+      "value": "-140493800000",
+      "scraped_at": "2026-03-21T09:18:26.951527"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net Issuance Payments Of Debt",
+      "value": "-25731900000",
+      "scraped_at": "2026-03-21T09:18:26.949181"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net Long Term Debt Issuance",
+      "value": "-25731900000",
+      "scraped_at": "2026-03-21T09:18:26.949769"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Net PPE Purchase And Sale",
+      "value": "-119960900000",
+      "scraped_at": "2026-03-21T09:18:26.953222"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Operating Cash Flow",
+      "value": "411067700000",
+      "scraped_at": "2026-03-21T09:18:26.955004"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Other Non Cash Items",
+      "value": "16912000000",
+      "scraped_at": "2026-03-21T09:18:26.958868"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Provisionand Write Offof Assets",
+      "value": "1843300000",
+      "scraped_at": "2026-03-21T09:18:26.959418"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of Business",
+      "value": "-7676500000",
+      "scraped_at": "2026-03-21T09:18:26.952636"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of PPE",
+      "value": "-120237000000",
+      "scraped_at": "2026-03-21T09:18:26.954445"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Sale Of PPE",
+      "value": "276100000",
+      "scraped_at": "2026-03-21T09:18:26.953812"
+    },
+    {
+      "year": 2022,
+      "source": "yahoo_historical",
+      "key": "cf_Taxes Refund Paid",
+      "value": "-55581200000",
+      "scraped_at": "2026-03-21T09:18:26.955556"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Basic Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.782653"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Basic EPS",
+      "value": "51.54",
+      "scraped_at": "2026-03-21T09:18:26.783756"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Cost Of Revenue",
+      "value": "229505400000",
+      "scraped_at": "2026-03-21T09:18:26.799042"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Diluted Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.782100"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Diluted EPS",
+      "value": "51.54",
+      "scraped_at": "2026-03-21T09:18:26.783208"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Diluted NI Availto Com Stockholders",
+      "value": "317632300000",
+      "scraped_at": "2026-03-21T09:18:26.784304"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "EBIT",
+      "value": "438206900000",
+      "scraped_at": "2026-03-21T09:18:26.777682"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "EBITDA",
+      "value": "506874400000",
+      "scraped_at": "2026-03-21T09:18:26.777133"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "General And Administrative Expense",
+      "value": "2598800000",
+      "scraped_at": "2026-03-21T09:18:26.797373"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Gross Profit",
+      "value": "1044784900000",
+      "scraped_at": "2026-03-21T09:18:26.798486"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Interest Expense",
+      "value": "5460900000",
+      "scraped_at": "2026-03-21T09:18:26.778782"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Interest Expense Non Operating",
+      "value": "5460900000",
+      "scraped_at": "2026-03-21T09:18:26.792806"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Interest Income",
+      "value": "30690900000",
+      "scraped_at": "2026-03-21T09:18:26.779337"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Interest Income Non Operating",
+      "value": "30690900000",
+      "scraped_at": "2026-03-21T09:18:26.793370"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Minority Interests",
+      "value": "402500000",
+      "scraped_at": "2026-03-21T09:18:26.786532"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income",
+      "value": "317632300000",
+      "scraped_at": "2026-03-21T09:18:26.785967"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income Common Stockholders",
+      "value": "317632300000",
+      "scraped_at": "2026-03-21T09:18:26.784852"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income Continuous Operations",
+      "value": "317229800000",
+      "scraped_at": "2026-03-21T09:18:26.787699"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing And Discontinued Operation",
+      "value": "317632300000",
+      "scraped_at": "2026-03-21T09:18:26.780434"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing Operation Net Minority Interest",
+      "value": "317632300000",
+      "scraped_at": "2026-03-21T09:18:26.775476"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Income Including Noncontrolling Interests",
+      "value": "317229800000",
+      "scraped_at": "2026-03-21T09:18:26.787109"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Interest Income",
+      "value": "23954500000",
+      "scraped_at": "2026-03-21T09:18:26.778231"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Net Non Operating Interest Income Expense",
+      "value": "23954500000",
+      "scraped_at": "2026-03-21T09:18:26.791689"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Normalized EBITDA",
+      "value": "505576600000",
+      "scraped_at": "2026-03-21T09:18:26.773720"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Normalized Income",
+      "value": "316680882820",
+      "scraped_at": "2026-03-21T09:18:26.779887"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Operating Expense",
+      "value": "668021500000",
+      "scraped_at": "2026-03-21T09:18:26.794566"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Operating Income",
+      "value": "376763400000",
+      "scraped_at": "2026-03-21T09:18:26.793988"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Operating Revenue",
+      "value": "1274290300000",
+      "scraped_at": "2026-03-21T09:18:26.800156"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Other Non Operating Income Expenses",
+      "value": "30857200000",
+      "scraped_at": "2026-03-21T09:18:26.789369"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Other Operating Expenses",
+      "value": "136180700000",
+      "scraped_at": "2026-03-21T09:18:26.795130"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Other Special Charges",
+      "value": "-281300000",
+      "scraped_at": "2026-03-21T09:18:26.790573"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Otherunder Preferred Stock Dividend",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.785403"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Pretax Income",
+      "value": "432746000000",
+      "scraped_at": "2026-03-21T09:18:26.788812"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Reconciled Cost Of Revenue",
+      "value": "229505400000",
+      "scraped_at": "2026-03-21T09:18:26.776584"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Reconciled Depreciation",
+      "value": "68667500000",
+      "scraped_at": "2026-03-21T09:18:26.776033"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Rent And Landing Fees",
+      "value": "177592500000",
+      "scraped_at": "2026-03-21T09:18:26.797930"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Rent Expense Supplemental",
+      "value": "177592500000",
+      "scraped_at": "2026-03-21T09:18:26.781546"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Research And Development",
+      "value": "1316600000",
+      "scraped_at": "2026-03-21T09:18:26.795693"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Selling And Marketing Expense",
+      "value": "683600000",
+      "scraped_at": "2026-03-21T09:18:26.796816"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Selling General And Administration",
+      "value": "3282400000",
+      "scraped_at": "2026-03-21T09:18:26.796256"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Special Income Charges",
+      "value": "-1644700000",
+      "scraped_at": "2026-03-21T09:18:26.790010"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Tax Effect Of Unusual Items",
+      "value": "346382820",
+      "scraped_at": "2026-03-21T09:18:26.772600"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Tax Provision",
+      "value": "115516200000",
+      "scraped_at": "2026-03-21T09:18:26.788258"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Tax Rate For Calcs",
+      "value": "0.2669",
+      "scraped_at": "2026-03-21T09:18:26.773169"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Total Expenses",
+      "value": "897526900000",
+      "scraped_at": "2026-03-21T09:18:26.780982"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Total Other Finance Cost",
+      "value": "1275500000",
+      "scraped_at": "2026-03-21T09:18:26.792239"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Total Revenue",
+      "value": "1274290300000",
+      "scraped_at": "2026-03-21T09:18:26.799603"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items",
+      "value": "1297800000",
+      "scraped_at": "2026-03-21T09:18:26.774362"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items Excluding Goodwill",
+      "value": "1297800000",
+      "scraped_at": "2026-03-21T09:18:26.774924"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "Write Off",
+      "value": "1926000000",
+      "scraped_at": "2026-03-21T09:18:26.791131"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Payable",
+      "value": "85491800000",
+      "scraped_at": "2026-03-21T09:18:26.822473"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Receivable",
+      "value": "148933600000",
+      "scraped_at": "2026-03-21T09:18:26.843274"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Accumulated Depreciation",
+      "value": "-274958500000",
+      "scraped_at": "2026-03-21T09:18:26.831167"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Additional Paid In Capital",
+      "value": "12029600000",
+      "scraped_at": "2026-03-21T09:18:26.809039"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Available For Sale Securities",
+      "value": "157506500000",
+      "scraped_at": "2026-03-21T09:18:26.826886"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Buildings And Improvements",
+      "value": "61462000000",
+      "scraped_at": "2026-03-21T09:18:26.834043"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Lease Obligations",
+      "value": "2166900000",
+      "scraped_at": "2026-03-21T09:18:26.804602"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.809595"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Cash And Cash Equivalents",
+      "value": "56274300000",
+      "scraped_at": "2026-03-21T09:18:26.845887"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Cash Equivalents And Short Term Investments",
+      "value": "431114400000",
+      "scraped_at": "2026-03-21T09:18:26.844530"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Equivalents",
+      "value": "7107400000",
+      "scraped_at": "2026-03-21T09:18:26.846683"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Financial",
+      "value": "49166900000",
+      "scraped_at": "2026-03-21T09:18:26.847364"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.810145"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock Equity",
+      "value": "608429300000",
+      "scraped_at": "2026-03-21T09:18:26.805155"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Construction In Progress",
+      "value": "207540100000",
+      "scraped_at": "2026-03-21T09:18:26.832331"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Assets",
+      "value": "1080837100000",
+      "scraped_at": "2026-03-21T09:18:26.835746"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Capital Lease Obligation",
+      "value": "596900000",
+      "scraped_at": "2026-03-21T09:18:26.818049"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt",
+      "value": "84800000",
+      "scraped_at": "2026-03-21T09:18:26.818605"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt And Capital Lease Obligation",
+      "value": "681700000",
+      "scraped_at": "2026-03-21T09:18:26.817492"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Liabilities",
+      "value": "687734200000",
+      "scraped_at": "2026-03-21T09:18:26.816324"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Current Provisions",
+      "value": "151981800000",
+      "scraped_at": "2026-03-21T09:18:26.819711"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Dividends Payable",
+      "value": "155000000",
+      "scraped_at": "2026-03-21T09:18:26.821366"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Finished Goods",
+      "value": "63764100000",
+      "scraped_at": "2026-03-21T09:18:26.840372"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Goodwill And Other Intangible Assets",
+      "value": "48596600000",
+      "scraped_at": "2026-03-21T09:18:26.828798"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Gross Accounts Receivable",
+      "value": "148933600000",
+      "scraped_at": "2026-03-21T09:18:26.843919"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Gross PPE",
+      "value": "1100682500000",
+      "scraped_at": "2026-03-21T09:18:26.831756"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Inventories Adjustments Allowances",
+      "value": "-2973900000",
+      "scraped_at": "2026-03-21T09:18:26.839792"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Inventory",
+      "value": "81546800000",
+      "scraped_at": "2026-03-21T09:18:26.839161"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Invested Capital",
+      "value": "649576600000",
+      "scraped_at": "2026-03-21T09:18:26.802947"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentin Financial Assets",
+      "value": "157506500000",
+      "scraped_at": "2026-03-21T09:18:26.826331"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentsin Joint Venturesat Cost",
+      "value": "30853200000",
+      "scraped_at": "2026-03-21T09:18:26.828090"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Land And Improvements",
+      "value": "243655700000",
+      "scraped_at": "2026-03-21T09:18:26.834621"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Capital Lease Obligation",
+      "value": "1570000000",
+      "scraped_at": "2026-03-21T09:18:26.814668"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt",
+      "value": "41062500000",
+      "scraped_at": "2026-03-21T09:18:26.815226"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt And Capital Lease Obligation",
+      "value": "42632500000",
+      "scraped_at": "2026-03-21T09:18:26.814109"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Equity Investment",
+      "value": "30853200000",
+      "scraped_at": "2026-03-21T09:18:26.827441"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Provisions",
+      "value": "761406300000",
+      "scraped_at": "2026-03-21T09:18:26.815778"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Machinery Furniture Equipment",
+      "value": "336795100000",
+      "scraped_at": "2026-03-21T09:18:26.833471"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Minority Interest",
+      "value": "7706900000",
+      "scraped_at": "2026-03-21T09:18:26.806815"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Net PPE",
+      "value": "825724000000",
+      "scraped_at": "2026-03-21T09:18:26.830541"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Net Tangible Assets",
+      "value": "559832700000",
+      "scraped_at": "2026-03-21T09:18:26.804053"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Assets",
+      "value": "2724900000",
+      "scraped_at": "2026-03-21T09:18:26.825223"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Revenue",
+      "value": "147100000",
+      "scraped_at": "2026-03-21T09:18:26.812899"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Assets",
+      "value": "28145200000",
+      "scraped_at": "2026-03-21T09:18:26.825779"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Liabilities",
+      "value": "16439500000",
+      "scraped_at": "2026-03-21T09:18:26.813538"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Pension And Other Postretirement Benefit Plans",
+      "value": "688279500000",
+      "scraped_at": "2026-03-21T09:18:26.812347"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Prepaid Assets",
+      "value": "6431100000",
+      "scraped_at": "2026-03-21T09:18:26.824671"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Ordinary Shares Number",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.800708"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Assets",
+      "value": "6752000000",
+      "scraped_at": "2026-03-21T09:18:26.836339"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Liabilities",
+      "value": "3679800000",
+      "scraped_at": "2026-03-21T09:18:26.816875"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Equity Interest",
+      "value": "510821600000",
+      "scraped_at": "2026-03-21T09:18:26.807931"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Intangible Assets",
+      "value": "48596600000",
+      "scraped_at": "2026-03-21T09:18:26.829861"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Assets",
+      "value": "42502300000",
+      "scraped_at": "2026-03-21T09:18:26.824123"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Liabilities",
+      "value": "67735100000",
+      "scraped_at": "2026-03-21T09:18:26.811796"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Payable",
+      "value": "133397800000",
+      "scraped_at": "2026-03-21T09:18:26.820814"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Properties",
+      "value": "155279900000",
+      "scraped_at": "2026-03-21T09:18:26.832900"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Receivables",
+      "value": "8759700000",
+      "scraped_at": "2026-03-21T09:18:26.842103"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Other Short Term Investments",
+      "value": "374840100000",
+      "scraped_at": "2026-03-21T09:18:26.845184"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Payables",
+      "value": "245634800000",
+      "scraped_at": "2026-03-21T09:18:26.820261"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Pensionand Other Post Retirement Benefit Plans Current",
+      "value": "37853200000",
+      "scraped_at": "2026-03-21T09:18:26.819159"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Prepaid Assets",
+      "value": "191945200000",
+      "scraped_at": "2026-03-21T09:18:26.838378"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Properties",
+      "value": "95949700000",
+      "scraped_at": "2026-03-21T09:18:26.835187"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Raw Materials",
+      "value": "20495700000",
+      "scraped_at": "2026-03-21T09:18:26.841517"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Restricted Cash",
+      "value": "8696900000",
+      "scraped_at": "2026-03-21T09:18:26.837123"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Retained Earnings",
+      "value": "335372600000",
+      "scraped_at": "2026-03-21T09:18:26.808484"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Share Issued",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.801282"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Stockholders Equity",
+      "value": "608429300000",
+      "scraped_at": "2026-03-21T09:18:26.807378"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Tangible Book Value",
+      "value": "559832700000",
+      "scraped_at": "2026-03-21T09:18:26.802390"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Taxes Receivable",
+      "value": "203088500000",
+      "scraped_at": "2026-03-21T09:18:26.842694"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Assets",
+      "value": "2224306600000",
+      "scraped_at": "2026-03-21T09:18:26.823027"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Capitalization",
+      "value": "649491800000",
+      "scraped_at": "2026-03-21T09:18:26.805708"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Debt",
+      "value": "43314200000",
+      "scraped_at": "2026-03-21T09:18:26.801836"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Equity Gross Minority Interest",
+      "value": "616136200000",
+      "scraped_at": "2026-03-21T09:18:26.806266"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Liabilities Net Minority Interest",
+      "value": "1608170400000",
+      "scraped_at": "2026-03-21T09:18:26.810696"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Assets",
+      "value": "1143469500000",
+      "scraped_at": "2026-03-21T09:18:26.823576"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Liabilities Net Minority Interest",
+      "value": "920436200000",
+      "scraped_at": "2026-03-21T09:18:26.811247"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Total Tax Payable",
+      "value": "26590200000",
+      "scraped_at": "2026-03-21T09:18:26.821917"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Work In Process",
+      "value": "260900000",
+      "scraped_at": "2026-03-21T09:18:26.840943"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "bs_Working Capital",
+      "value": "393102900000",
+      "scraped_at": "2026-03-21T09:18:26.803500"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Amortization Cash Flow",
+      "value": "1865000000",
+      "scraped_at": "2026-03-21T09:18:26.867041"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Beginning Cash Position",
+      "value": "70633000000",
+      "scraped_at": "2026-03-21T09:18:26.850304"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Capital Expenditure",
+      "value": "-153181100000",
+      "scraped_at": "2026-03-21T09:18:26.848952"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Cash Dividends Paid",
+      "value": "-143280700000",
+      "scraped_at": "2026-03-21T09:18:26.852839"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Inventory",
+      "value": "-10790000000",
+      "scraped_at": "2026-03-21T09:18:26.863647"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Assets",
+      "value": "-60002200000",
+      "scraped_at": "2026-03-21T09:18:26.862309"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Liabilities",
+      "value": "44502900000",
+      "scraped_at": "2026-03-21T09:18:26.861630"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Payable",
+      "value": "-543500000",
+      "scraped_at": "2026-03-21T09:18:26.862984"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Receivables",
+      "value": "-26753100000",
+      "scraped_at": "2026-03-21T09:18:26.864305"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Working Capital",
+      "value": "26519400000",
+      "scraped_at": "2026-03-21T09:18:26.860972"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Changes In Cash",
+      "value": "-14358700000",
+      "scraped_at": "2026-03-21T09:18:26.850944"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation",
+      "value": "66802500000",
+      "scraped_at": "2026-03-21T09:18:26.867681"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation And Amortization",
+      "value": "68667500000",
+      "scraped_at": "2026-03-21T09:18:26.866378"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_End Cash Position",
+      "value": "56274300000",
+      "scraped_at": "2026-03-21T09:18:26.849642"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Financing Cash Flow",
+      "value": "-137043500000",
+      "scraped_at": "2026-03-21T09:18:26.851564"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Free Cash Flow",
+      "value": "204158600000",
+      "scraped_at": "2026-03-21T09:18:26.848016"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Sale Of PPE",
+      "value": "-281300000",
+      "scraped_at": "2026-03-21T09:18:26.869041"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Paid Cff",
+      "value": "-1382200000",
+      "scraped_at": "2026-03-21T09:18:26.852209"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Received Cfi",
+      "value": "26840800000",
+      "scraped_at": "2026-03-21T09:18:26.855669"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Investing Cash Flow",
+      "value": "-234654900000",
+      "scraped_at": "2026-03-21T09:18:26.855112"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Business Purchase And Sale",
+      "value": "-6665400000",
+      "scraped_at": "2026-03-21T09:18:26.856788"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Foreign Currency Exchange Gain Loss",
+      "value": "45500000",
+      "scraped_at": "2026-03-21T09:18:26.868326"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Income From Continuing Operations",
+      "value": "432746000000",
+      "scraped_at": "2026-03-21T09:18:26.869730"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Investment Purchase And Sale",
+      "value": "-102717100000",
+      "scraped_at": "2026-03-21T09:18:26.856227"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Issuance Payments Of Debt",
+      "value": "8051500000",
+      "scraped_at": "2026-03-21T09:18:26.853422"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Long Term Debt Issuance",
+      "value": "8044700000",
+      "scraped_at": "2026-03-21T09:18:26.854553"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net PPE Purchase And Sale",
+      "value": "-152113200000",
+      "scraped_at": "2026-03-21T09:18:26.857945"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Net Short Term Debt Issuance",
+      "value": "6800000",
+      "scraped_at": "2026-03-21T09:18:26.853990"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Operating Cash Flow",
+      "value": "357339700000",
+      "scraped_at": "2026-03-21T09:18:26.859673"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Other Non Cash Items",
+      "value": "-78616900000",
+      "scraped_at": "2026-03-21T09:18:26.864980"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Provisionand Write Offof Assets",
+      "value": "3749300000",
+      "scraped_at": "2026-03-21T09:18:26.865684"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of Business",
+      "value": "-6665400000",
+      "scraped_at": "2026-03-21T09:18:26.857360"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of PPE",
+      "value": "-153181100000",
+      "scraped_at": "2026-03-21T09:18:26.859101"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Sale Of PPE",
+      "value": "1067900000",
+      "scraped_at": "2026-03-21T09:18:26.858525"
+    },
+    {
+      "year": 2023,
+      "source": "yahoo_historical",
+      "key": "cf_Taxes Refund Paid",
+      "value": "-97497200000",
+      "scraped_at": "2026-03-21T09:18:26.860305"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Basic Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.691177"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Basic EPS",
+      "value": "60.69",
+      "scraped_at": "2026-03-21T09:18:26.692287"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Cost Of Revenue",
+      "value": "196702600000",
+      "scraped_at": "2026-03-21T09:18:26.707339"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Diluted Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.690628"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Diluted EPS",
+      "value": "60.69",
+      "scraped_at": "2026-03-21T09:18:26.691723"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Diluted NI Availto Com Stockholders",
+      "value": "374022900000",
+      "scraped_at": "2026-03-21T09:18:26.692840"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "EBIT",
+      "value": "495475300000",
+      "scraped_at": "2026-03-21T09:18:26.686236"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "EBITDA",
+      "value": "562920200000",
+      "scraped_at": "2026-03-21T09:18:26.685681"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "General And Administrative Expense",
+      "value": "4792700000",
+      "scraped_at": "2026-03-21T09:18:26.705676"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Gross Profit",
+      "value": "1074041500000",
+      "scraped_at": "2026-03-21T09:18:26.706787"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Interest Expense",
+      "value": "7349200000",
+      "scraped_at": "2026-03-21T09:18:26.687333"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Interest Expense Non Operating",
+      "value": "7349200000",
+      "scraped_at": "2026-03-21T09:18:26.701196"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Interest Income",
+      "value": "45744400000",
+      "scraped_at": "2026-03-21T09:18:26.687885"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Interest Income Non Operating",
+      "value": "45744400000",
+      "scraped_at": "2026-03-21T09:18:26.701755"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Minority Interests",
+      "value": "331600000",
+      "scraped_at": "2026-03-21T09:18:26.695042"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income",
+      "value": "374022900000",
+      "scraped_at": "2026-03-21T09:18:26.694487"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income Common Stockholders",
+      "value": "374022900000",
+      "scraped_at": "2026-03-21T09:18:26.693390"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income Continuous Operations",
+      "value": "373691300000",
+      "scraped_at": "2026-03-21T09:18:26.696195"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing And Discontinued Operation",
+      "value": "374022900000",
+      "scraped_at": "2026-03-21T09:18:26.688990"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing Operation Net Minority Interest",
+      "value": "374022900000",
+      "scraped_at": "2026-03-21T09:18:26.684006"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Income Including Noncontrolling Interests",
+      "value": "373691300000",
+      "scraped_at": "2026-03-21T09:18:26.695637"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Interest Income",
+      "value": "37651000000",
+      "scraped_at": "2026-03-21T09:18:26.686785"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Net Non Operating Interest Income Expense",
+      "value": "37651000000",
+      "scraped_at": "2026-03-21T09:18:26.700098"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Normalized EBITDA",
+      "value": "559394700000",
+      "scraped_at": "2026-03-21T09:18:26.682308"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Normalized Income",
+      "value": "371323777200",
+      "scraped_at": "2026-03-21T09:18:26.688436"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Operating Expense",
+      "value": "660629200000",
+      "scraped_at": "2026-03-21T09:18:26.702856"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Operating Income",
+      "value": "413412300000",
+      "scraped_at": "2026-03-21T09:18:26.702309"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Operating Revenue",
+      "value": "1270744100000",
+      "scraped_at": "2026-03-21T09:18:26.708447"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Other Non Operating Income Expenses",
+      "value": "29221200000",
+      "scraped_at": "2026-03-21T09:18:26.697849"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Other Operating Expenses",
+      "value": "350041100000",
+      "scraped_at": "2026-03-21T09:18:26.703410"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Other Special Charges",
+      "value": "-188500000",
+      "scraped_at": "2026-03-21T09:18:26.698999"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Otherunder Preferred Stock Dividend",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.693941"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Pretax Income",
+      "value": "488126100000",
+      "scraped_at": "2026-03-21T09:18:26.697296"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Reconciled Cost Of Revenue",
+      "value": "196702600000",
+      "scraped_at": "2026-03-21T09:18:26.685123"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Reconciled Depreciation",
+      "value": "67444900000",
+      "scraped_at": "2026-03-21T09:18:26.684562"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Rent And Landing Fees",
+      "value": "6356400000",
+      "scraped_at": "2026-03-21T09:18:26.706237"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Rent Expense Supplemental",
+      "value": "6356400000",
+      "scraped_at": "2026-03-21T09:18:26.690083"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Research And Development",
+      "value": "86700000",
+      "scraped_at": "2026-03-21T09:18:26.703978"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Selling And Marketing Expense",
+      "value": "1019500000",
+      "scraped_at": "2026-03-21T09:18:26.705101"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Selling General And Administration",
+      "value": "5812200000",
+      "scraped_at": "2026-03-21T09:18:26.704540"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Special Income Charges",
+      "value": "-627900000",
+      "scraped_at": "2026-03-21T09:18:26.698446"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Tax Effect Of Unusual Items",
+      "value": "826377200",
+      "scraped_at": "2026-03-21T09:18:26.681184"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Tax Provision",
+      "value": "114434800000",
+      "scraped_at": "2026-03-21T09:18:26.696748"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Tax Rate For Calcs",
+      "value": "0.2344",
+      "scraped_at": "2026-03-21T09:18:26.681756"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Total Expenses",
+      "value": "857331800000",
+      "scraped_at": "2026-03-21T09:18:26.689536"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Total Other Finance Cost",
+      "value": "744200000",
+      "scraped_at": "2026-03-21T09:18:26.700646"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Total Revenue",
+      "value": "1270744100000",
+      "scraped_at": "2026-03-21T09:18:26.707890"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items",
+      "value": "3525500000",
+      "scraped_at": "2026-03-21T09:18:26.682895"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items Excluding Goodwill",
+      "value": "3525500000",
+      "scraped_at": "2026-03-21T09:18:26.683452"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "Write Off",
+      "value": "816400000",
+      "scraped_at": "2026-03-21T09:18:26.699549"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Payable",
+      "value": "83856500000",
+      "scraped_at": "2026-03-21T09:18:26.730719"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Receivable",
+      "value": "139051300000",
+      "scraped_at": "2026-03-21T09:18:26.749062"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Accumulated Depreciation",
+      "value": "-332100400000",
+      "scraped_at": "2026-03-21T09:18:26.738408"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Additional Paid In Capital",
+      "value": "11068100000",
+      "scraped_at": "2026-03-21T09:18:26.717926"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Available For Sale Securities",
+      "value": "173825000000",
+      "scraped_at": "2026-03-21T09:18:26.735118"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Buildings And Improvements",
+      "value": "73144100000",
+      "scraped_at": "2026-03-21T09:18:26.741153"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Lease Obligations",
+      "value": "2340100000",
+      "scraped_at": "2026-03-21T09:18:26.713502"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.718475"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Cash And Cash Equivalents",
+      "value": "60087100000",
+      "scraped_at": "2026-03-21T09:18:26.751286"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Cash Equivalents And Short Term Investments",
+      "value": "329338900000",
+      "scraped_at": "2026-03-21T09:18:26.750163"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Equivalents",
+      "value": "3421400000",
+      "scraped_at": "2026-03-21T09:18:26.751840"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Financial",
+      "value": "56665700000",
+      "scraped_at": "2026-03-21T09:18:26.752421"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.719022"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock Equity",
+      "value": "827297800000",
+      "scraped_at": "2026-03-21T09:18:26.714059"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Construction In Progress",
+      "value": "232317600000",
+      "scraped_at": "2026-03-21T09:18:26.739503"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Assets",
+      "value": "1038833600000",
+      "scraped_at": "2026-03-21T09:18:26.742837"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Capital Lease Obligation",
+      "value": "777200000",
+      "scraped_at": "2026-03-21T09:18:26.726266"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt",
+      "value": "6718200000",
+      "scraped_at": "2026-03-21T09:18:26.726815"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt And Capital Lease Obligation",
+      "value": "7495400000",
+      "scraped_at": "2026-03-21T09:18:26.725718"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Liabilities",
+      "value": "612725400000",
+      "scraped_at": "2026-03-21T09:18:26.724613"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Current Provisions",
+      "value": "66805800000",
+      "scraped_at": "2026-03-21T09:18:26.727935"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Dividends Payable",
+      "value": "163700000",
+      "scraped_at": "2026-03-21T09:18:26.729627"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Finished Goods",
+      "value": "78421600000",
+      "scraped_at": "2026-03-21T09:18:26.746300"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Goodwill And Other Intangible Assets",
+      "value": "68882000000",
+      "scraped_at": "2026-03-21T09:18:26.736762"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Gross Accounts Receivable",
+      "value": "139051300000",
+      "scraped_at": "2026-03-21T09:18:26.749612"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Gross PPE",
+      "value": "1292072100000",
+      "scraped_at": "2026-03-21T09:18:26.738956"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Inventories Adjustments Allowances",
+      "value": "-2962700000",
+      "scraped_at": "2026-03-21T09:18:26.745741"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Inventory",
+      "value": "101772300000",
+      "scraped_at": "2026-03-21T09:18:26.745063"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Invested Capital",
+      "value": "890188000000",
+      "scraped_at": "2026-03-21T09:18:26.711801"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentin Financial Assets",
+      "value": "173825000000",
+      "scraped_at": "2026-03-21T09:18:26.734567"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentsin Joint Venturesat Cost",
+      "value": "38592300000",
+      "scraped_at": "2026-03-21T09:18:26.736212"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Land And Improvements",
+      "value": "279663200000",
+      "scraped_at": "2026-03-21T09:18:26.741706"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Capital Lease Obligation",
+      "value": "1562900000",
+      "scraped_at": "2026-03-21T09:18:26.722925"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt",
+      "value": "56172000000",
+      "scraped_at": "2026-03-21T09:18:26.723497"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt And Capital Lease Obligation",
+      "value": "57734900000",
+      "scraped_at": "2026-03-21T09:18:26.722367"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Equity Investment",
+      "value": "38592300000",
+      "scraped_at": "2026-03-21T09:18:26.735665"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Provisions",
+      "value": "743110100000",
+      "scraped_at": "2026-03-21T09:18:26.724057"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Machinery Furniture Equipment",
+      "value": "405865000000",
+      "scraped_at": "2026-03-21T09:18:26.740600"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Minority Interest",
+      "value": "8521200000",
+      "scraped_at": "2026-03-21T09:18:26.715706"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Net Debt",
+      "value": "2803100000",
+      "scraped_at": "2026-03-21T09:18:26.710117"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Net PPE",
+      "value": "959971700000",
+      "scraped_at": "2026-03-21T09:18:26.737860"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Net Tangible Assets",
+      "value": "758415800000",
+      "scraped_at": "2026-03-21T09:18:26.712953"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Assets",
+      "value": "2550200000",
+      "scraped_at": "2026-03-21T09:18:26.733470"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Revenue",
+      "value": "12366800000",
+      "scraped_at": "2026-03-21T09:18:26.721223"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Assets",
+      "value": "31412900000",
+      "scraped_at": "2026-03-21T09:18:26.734016"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Liabilities",
+      "value": "18221600000",
+      "scraped_at": "2026-03-21T09:18:26.721772"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Prepaid Assets",
+      "value": "7469900000",
+      "scraped_at": "2026-03-21T09:18:26.732921"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Ordinary Shares Number",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.708997"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Assets",
+      "value": "6041600000",
+      "scraped_at": "2026-03-21T09:18:26.743403"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Liabilities",
+      "value": "2045500000",
+      "scraped_at": "2026-03-21T09:18:26.725165"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Equity Interest",
+      "value": "765670500000",
+      "scraped_at": "2026-03-21T09:18:26.716830"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Intangible Assets",
+      "value": "68882000000",
+      "scraped_at": "2026-03-21T09:18:26.737312"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Assets",
+      "value": "53436700000",
+      "scraped_at": "2026-03-21T09:18:26.732372"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Liabilities",
+      "value": "62052200000",
+      "scraped_at": "2026-03-21T09:18:26.720671"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Payable",
+      "value": "160742100000",
+      "scraped_at": "2026-03-21T09:18:26.729076"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Properties",
+      "value": "193470700000",
+      "scraped_at": "2026-03-21T09:18:26.740050"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Receivables",
+      "value": "20649300000",
+      "scraped_at": "2026-03-21T09:18:26.747956"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Other Short Term Investments",
+      "value": "269251800000",
+      "scraped_at": "2026-03-21T09:18:26.750712"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Payables",
+      "value": "278314400000",
+      "scraped_at": "2026-03-21T09:18:26.728485"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Pensionand Other Post Retirement Benefit Plans Current",
+      "value": "47670700000",
+      "scraped_at": "2026-03-21T09:18:26.727375"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Prepaid Assets",
+      "value": "202938400000",
+      "scraped_at": "2026-03-21T09:18:26.744511"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Properties",
+      "value": "107611500000",
+      "scraped_at": "2026-03-21T09:18:26.742260"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Raw Materials",
+      "value": "26312800000",
+      "scraped_at": "2026-03-21T09:18:26.747401"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Restricted Cash",
+      "value": "5571400000",
+      "scraped_at": "2026-03-21T09:18:26.743961"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Retained Earnings",
+      "value": "544255600000",
+      "scraped_at": "2026-03-21T09:18:26.717377"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Share Issued",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.709566"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Stockholders Equity",
+      "value": "827297800000",
+      "scraped_at": "2026-03-21T09:18:26.716276"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Tangible Book Value",
+      "value": "758415800000",
+      "scraped_at": "2026-03-21T09:18:26.711222"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Taxes Receivable",
+      "value": "233470400000",
+      "scraped_at": "2026-03-21T09:18:26.748510"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Assets",
+      "value": "2376722600000",
+      "scraped_at": "2026-03-21T09:18:26.731270"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Capitalization",
+      "value": "883469800000",
+      "scraped_at": "2026-03-21T09:18:26.714606"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Debt",
+      "value": "65230300000",
+      "scraped_at": "2026-03-21T09:18:26.710666"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Equity Gross Minority Interest",
+      "value": "835819000000",
+      "scraped_at": "2026-03-21T09:18:26.715154"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Liabilities Net Minority Interest",
+      "value": "1540903600000",
+      "scraped_at": "2026-03-21T09:18:26.719570"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Assets",
+      "value": "1337889000000",
+      "scraped_at": "2026-03-21T09:18:26.731823"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Liabilities Net Minority Interest",
+      "value": "928178200000",
+      "scraped_at": "2026-03-21T09:18:26.720122"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Total Tax Payable",
+      "value": "33552100000",
+      "scraped_at": "2026-03-21T09:18:26.730172"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Work In Process",
+      "value": "600000",
+      "scraped_at": "2026-03-21T09:18:26.746849"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "bs_Working Capital",
+      "value": "426108200000",
+      "scraped_at": "2026-03-21T09:18:26.712395"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Amortization Cash Flow",
+      "value": "1932400000",
+      "scraped_at": "2026-03-21T09:18:26.769810"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Beginning Cash Position",
+      "value": "56274300000",
+      "scraped_at": "2026-03-21T09:18:26.754615"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Capital Expenditure",
+      "value": "-168213400000",
+      "scraped_at": "2026-03-21T09:18:26.753518"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Cash Dividends Paid",
+      "value": "-150978500000",
+      "scraped_at": "2026-03-21T09:18:26.756816"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Inventory",
+      "value": "-20670800000",
+      "scraped_at": "2026-03-21T09:18:26.766998"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Assets",
+      "value": "-51012000000",
+      "scraped_at": "2026-03-21T09:18:26.765896"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Liabilities",
+      "value": "7292700000",
+      "scraped_at": "2026-03-21T09:18:26.765345"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Payable",
+      "value": "-1635300000",
+      "scraped_at": "2026-03-21T09:18:26.766447"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Receivables",
+      "value": "-7001500000",
+      "scraped_at": "2026-03-21T09:18:26.767550"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Working Capital",
+      "value": "-186219500000",
+      "scraped_at": "2026-03-21T09:18:26.764796"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Changes In Cash",
+      "value": "-2819700000",
+      "scraped_at": "2026-03-21T09:18:26.755168"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation",
+      "value": "65512500000",
+      "scraped_at": "2026-03-21T09:18:26.770376"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation And Amortization",
+      "value": "67444900000",
+      "scraped_at": "2026-03-21T09:18:26.769195"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_End Cash Position",
+      "value": "53454600000",
+      "scraped_at": "2026-03-21T09:18:26.754066"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Financing Cash Flow",
+      "value": "-138992700000",
+      "scraped_at": "2026-03-21T09:18:26.755720"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Free Cash Flow",
+      "value": "12817600000",
+      "scraped_at": "2026-03-21T09:18:26.752972"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Sale Of PPE",
+      "value": "-188500000",
+      "scraped_at": "2026-03-21T09:18:26.771491"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Paid Cff",
+      "value": "-2243000000",
+      "scraped_at": "2026-03-21T09:18:26.756266"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Received Cfi",
+      "value": "29468900000",
+      "scraped_at": "2026-03-21T09:18:26.759801"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Investing Cash Flow",
+      "value": "-44858000000",
+      "scraped_at": "2026-03-21T09:18:26.759231"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Business Purchase And Sale",
+      "value": "-3470200000",
+      "scraped_at": "2026-03-21T09:18:26.760914"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Foreign Currency Exchange Gain Loss",
+      "value": "-47800000",
+      "scraped_at": "2026-03-21T09:18:26.770931"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Income From Continuing Operations",
+      "value": "488126100000",
+      "scraped_at": "2026-03-21T09:18:26.772049"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Investment Purchase And Sale",
+      "value": "96642500000",
+      "scraped_at": "2026-03-21T09:18:26.760358"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Issuance Payments Of Debt",
+      "value": "14959900000",
+      "scraped_at": "2026-03-21T09:18:26.757366"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Long Term Debt Issuance",
+      "value": "15011200000",
+      "scraped_at": "2026-03-21T09:18:26.758463"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net PPE Purchase And Sale",
+      "value": "-167499200000",
+      "scraped_at": "2026-03-21T09:18:26.762013"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Net Short Term Debt Issuance",
+      "value": "-51300000",
+      "scraped_at": "2026-03-21T09:18:26.757914"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Operating Cash Flow",
+      "value": "181031000000",
+      "scraped_at": "2026-03-21T09:18:26.763685"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Other Non Cash Items",
+      "value": "-79263300000",
+      "scraped_at": "2026-03-21T09:18:26.768100"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Provisionand Write Offof Assets",
+      "value": "11897900000",
+      "scraped_at": "2026-03-21T09:18:26.768648"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of Business",
+      "value": "-3470200000",
+      "scraped_at": "2026-03-21T09:18:26.761464"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of PPE",
+      "value": "-168213400000",
+      "scraped_at": "2026-03-21T09:18:26.763117"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Sale Of PPE",
+      "value": "714200000",
+      "scraped_at": "2026-03-21T09:18:26.762567"
+    },
+    {
+      "year": 2024,
+      "source": "yahoo_historical",
+      "key": "cf_Taxes Refund Paid",
+      "value": "-117266900000",
+      "scraped_at": "2026-03-21T09:18:26.764241"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_board_women",
+      "value": "149 count",
+      "scraped_at": "2026-03-21T09:08:49.441297"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_cin",
+      "value": "L23109WB1973GOI028844",
+      "scraped_at": "2026-03-21T09:08:49.443011"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_csr_spend",
+      "value": "24 INR Cr",
+      "scraped_at": "2026-03-21T09:08:49.449189"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_fatalities",
+      "value": "1975 count",
+      "scraped_at": "2026-03-21T09:08:49.375772"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_incorporation_year",
+      "value": "2024",
+      "scraped_at": "2026-03-21T09:08:49.443857"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_independent_directors",
+      "value": "5 count",
+      "scraped_at": "2026-03-21T09:08:49.442158"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_iso14001_cert",
+      "value": "ISO 14001 ISO 14001 certified",
+      "scraped_at": "2026-03-21T09:08:49.446589"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_iso45001_cert",
+      "value": "ISO 45001 OHS certified",
+      "scraped_at": "2026-03-21T09:08:49.447444"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_iso50001_cert",
+      "value": "ISO 50001 ISO 50001 certified",
+      "scraped_at": "2026-03-21T09:08:49.448337"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_male_employees",
+      "value": "200263 count",
+      "scraped_at": "2026-03-21T09:08:49.439158"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_num_offices",
+      "value": "197 offices",
+      "scraped_at": "2026-03-21T09:08:49.445718"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_subsidiaries_count",
+      "value": "7 subsidiaries",
+      "scraped_at": "2026-03-21T09:08:49.444707"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_total_employees",
+      "value": "225 count",
+      "scraped_at": "2026-03-21T09:08:49.450046"
+    },
+    {
+      "year": 2025,
+      "source": "brsr_pdf",
+      "key": "brsr_turnover_rate",
+      "value": "14 %",
+      "scraped_at": "2026-03-21T09:08:49.440415"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "52w_high",
+      "value": "476.0",
+      "scraped_at": "2026-03-21T09:18:25.545984"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "52w_low",
+      "value": "356.0",
+      "scraped_at": "2026-03-21T09:18:25.546552"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "about",
+      "value": "About Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns Key Points A Maharatna company Coal India was incorporated in 1975 as Coal Mines Authority Ltd after the nationalization of the coal sector. [1] It is a 'Maharatna' company under the Ministry of Coal, Government of India with headquarters at Kolkata, West Bengal. [2] Read More Website BSE NSE",
+      "scraped_at": "2026-03-21T09:18:25.555767"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "beta",
+      "value": "-0.024",
+      "scraped_at": "2026-03-21T09:18:25.545428"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "book_value",
+      "value": "171.077",
+      "scraped_at": "2026-03-21T09:18:25.547669"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "company_name",
+      "value": "COAL INDIA LIMITED",
+      "scraped_at": "2026-03-21T09:18:25.526521"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "country",
+      "value": "India",
+      "scraped_at": "2026-03-21T09:18:25.537480"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "currency",
+      "value": "INR",
+      "scraped_at": "2026-03-21T09:18:25.536923"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "debt_to_equity",
+      "value": "12.976",
+      "scraped_at": "2026-03-21T09:18:25.543734"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "description",
+      "value": "Coal India Limited, together with its subsidiaries, produces and sells coal and coal products in India. The company offers coking coal for steel making and metallurgical industries, as well as for hard coke manufacturing; semi coking coal for blend-able coal in steel making, merchant coke manufacturing, and other metallurgical industries; and non-coking coal for thermal grade coal for cement, fertilizer, glass, ceramic, paper, chemical, and brick manufacturing, as well as power generation and other heating purposes. It also provides washed and beneficiated coal for manufacturing of hard coke for steel making and power generation, as well as for cement, sponge iron, and other industrial plants; middling products for power generation, domestic fuel plants, brick manufacturing units, cement plants, and industrial plants, etc.; and rejects products for fluidized bed combustion boilers for power generation, road repairs, briquette making, and land filling, etc. In addition, the company offers CIL/LTC coke for use in furnaces and kilns of industrial units, as well as domestic fuel by halwais, and hotels, etc.; coal/coke fines for use in industrial furnaces and domestic purposes; and tar, heavy and light oil, and soft pitch for use in furnaces and boilers of industrial plants, power houses, oil, dye, and pharmaceutical industries, etc. Further, it engages in coal mining and gasification; consultancy support in coal and mineral exploration; and renewable and solar energy. The company was formerly known as Coal Mines Authority Limited and changed its name to Coal India Limited in January 1975. Coal India Limited was incorporated in 1973 and is headquartered in Kolkata, India.",
+      "scraped_at": "2026-03-21T09:18:25.535791"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "dividend_yield",
+      "value": "4.7",
+      "scraped_at": "2026-03-21T09:18:25.544284"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "earnings_per_share",
+      "value": "48.45",
+      "scraped_at": "2026-03-21T09:18:25.548778"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "ebitda",
+      "value": "413251567616",
+      "scraped_at": "2026-03-21T09:18:25.539178"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "exchange",
+      "value": "NSI",
+      "scraped_at": "2026-03-21T09:18:25.536363"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "gross_margins",
+      "value": "0.8563",
+      "scraped_at": "2026-03-21T09:18:25.542626"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "gross_profit",
+      "value": "1109793570816",
+      "scraped_at": "2026-03-21T09:18:25.538612"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "headquarters",
+      "value": "Kolkata, India",
+      "scraped_at": "2026-03-21T09:18:25.549329"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "industry",
+      "value": "Thermal Coal",
+      "scraped_at": "2026-03-21T09:18:25.534025"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "market_cap",
+      "value": "2885081366528",
+      "scraped_at": "2026-03-21T09:18:25.540285"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "official_name",
+      "value": "Coal India Ltd",
+      "scraped_at": "2026-03-21T09:18:25.549879"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "operating_margins",
+      "value": "0.2308",
+      "scraped_at": "2026-03-21T09:18:25.543175"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "payout_ratio",
+      "value": "0.547",
+      "scraped_at": "2026-03-21T09:18:25.544838"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "pb_ratio",
+      "value": "2.7364872",
+      "scraped_at": "2026-03-21T09:18:25.541505"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "pe_ratio",
+      "value": "9.662539",
+      "scraped_at": "2026-03-21T09:18:25.540843"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "profit_margins",
+      "value": "0.23039",
+      "scraped_at": "2026-03-21T09:18:25.542069"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "revenue",
+      "value": "1296029450240",
+      "scraped_at": "2026-03-21T09:18:25.538055"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "revenue_per_share",
+      "value": "210.316",
+      "scraped_at": "2026-03-21T09:18:25.548221"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Book Value",
+      "value": "\u20b9171",
+      "scraped_at": "2026-03-21T09:18:25.552779"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Current Price",
+      "value": "\u20b9468",
+      "scraped_at": "2026-03-21T09:18:25.550993"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Dividend Yield",
+      "value": "5.66%",
+      "scraped_at": "2026-03-21T09:18:25.553439"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Face Value",
+      "value": "\u20b910.0",
+      "scraped_at": "2026-03-21T09:18:25.555197"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_High / Low",
+      "value": "\u20b9476/350",
+      "scraped_at": "2026-03-21T09:18:25.551659"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Market Cap",
+      "value": "\u20b92,88,508Cr.",
+      "scraped_at": "2026-03-21T09:18:25.550429"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROCE",
+      "value": "48.0%",
+      "scraped_at": "2026-03-21T09:18:25.554019"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_ROE",
+      "value": "38.9%",
+      "scraped_at": "2026-03-21T09:18:25.554626"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sc_Stock P/E",
+      "value": "9.66",
+      "scraped_at": "2026-03-21T09:18:25.552220"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "sector",
+      "value": "Energy",
+      "scraped_at": "2026-03-21T09:18:25.533419"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "shares_outstanding",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:25.547107"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "ticker",
+      "value": "COALINDIA.NS",
+      "scraped_at": "2026-03-21T09:18:25.532486"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "total_debt",
+      "value": "137861693440",
+      "scraped_at": "2026-03-21T09:18:25.539729"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "total_employees",
+      "value": "220272",
+      "scraped_at": "2026-03-21T09:18:25.535190"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo",
+      "key": "website",
+      "value": "https://www.coalindia.in",
+      "scraped_at": "2026-03-21T09:18:25.534600"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Basic Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.596160"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Basic EPS",
+      "value": "57.37",
+      "scraped_at": "2026-03-21T09:18:26.598062"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Cost Of Revenue",
+      "value": "210412900000",
+      "scraped_at": "2026-03-21T09:18:26.616300"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Diluted Average Shares",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.595118"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Diluted EPS",
+      "value": "57.37",
+      "scraped_at": "2026-03-21T09:18:26.597197"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Diluted NI Availto Com Stockholders",
+      "value": "353581600000",
+      "scraped_at": "2026-03-21T09:18:26.599050"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "EBIT",
+      "value": "476246600000",
+      "scraped_at": "2026-03-21T09:18:26.585976"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "EBITDA",
+      "value": "567853800000",
+      "scraped_at": "2026-03-21T09:18:26.583856"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "General And Administrative Expense",
+      "value": "6336500000",
+      "scraped_at": "2026-03-21T09:18:26.614662"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Gross Profit",
+      "value": "1032275800000",
+      "scraped_at": "2026-03-21T09:18:26.615754"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Interest Expense",
+      "value": "6584700000",
+      "scraped_at": "2026-03-21T09:18:26.589157"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Interest Expense Non Operating",
+      "value": "6584700000",
+      "scraped_at": "2026-03-21T09:18:26.609988"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Interest Income",
+      "value": "53549300000",
+      "scraped_at": "2026-03-21T09:18:26.590525"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Interest Income Non Operating",
+      "value": "53549300000",
+      "scraped_at": "2026-03-21T09:18:26.610620"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Minority Interests",
+      "value": "560600000",
+      "scraped_at": "2026-03-21T09:18:26.602477"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income",
+      "value": "353581600000",
+      "scraped_at": "2026-03-21T09:18:26.601655"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income Common Stockholders",
+      "value": "353581600000",
+      "scraped_at": "2026-03-21T09:18:26.599936"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income Continuous Operations",
+      "value": "353021000000",
+      "scraped_at": "2026-03-21T09:18:26.603917"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing And Discontinued Operation",
+      "value": "353581600000",
+      "scraped_at": "2026-03-21T09:18:26.593012"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income From Continuing Operation Net Minority Interest",
+      "value": "353581600000",
+      "scraped_at": "2026-03-21T09:18:26.577361"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Income Including Noncontrolling Interests",
+      "value": "353021000000",
+      "scraped_at": "2026-03-21T09:18:26.603197"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Interest Income",
+      "value": "44712800000",
+      "scraped_at": "2026-03-21T09:18:26.587767"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Net Non Operating Interest Income Expense",
+      "value": "44712800000",
+      "scraped_at": "2026-03-21T09:18:26.608741"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Normalized EBITDA",
+      "value": "566641000000",
+      "scraped_at": "2026-03-21T09:18:26.571426"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Normalized Income",
+      "value": "352670059520",
+      "scraped_at": "2026-03-21T09:18:26.591885"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Operating Expense",
+      "value": "637882500000",
+      "scraped_at": "2026-03-21T09:18:26.611862"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Operating Income",
+      "value": "394393300000",
+      "scraped_at": "2026-03-21T09:18:26.611243"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Operating Revenue",
+      "value": "1242688700000",
+      "scraped_at": "2026-03-21T09:18:26.617447"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Other Non Operating Income Expenses",
+      "value": "24790700000",
+      "scraped_at": "2026-03-21T09:18:26.606081"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Other Operating Expenses",
+      "value": "362108700000",
+      "scraped_at": "2026-03-21T09:18:26.612473"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Other Special Charges",
+      "value": "5300000",
+      "scraped_at": "2026-03-21T09:18:26.607496"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Otherunder Preferred Stock Dividend",
+      "value": "0",
+      "scraped_at": "2026-03-21T09:18:26.600801"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Pretax Income",
+      "value": "469661900000",
+      "scraped_at": "2026-03-21T09:18:26.605357"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Reconciled Cost Of Revenue",
+      "value": "210412900000",
+      "scraped_at": "2026-03-21T09:18:26.581661"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Reconciled Depreciation",
+      "value": "91607200000",
+      "scraped_at": "2026-03-21T09:18:26.579503"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Rent And Landing Fees",
+      "value": "6845000000",
+      "scraped_at": "2026-03-21T09:18:26.615209"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Research And Development",
+      "value": "2208900000",
+      "scraped_at": "2026-03-21T09:18:26.613020"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Selling And Marketing Expense",
+      "value": "1130300000",
+      "scraped_at": "2026-03-21T09:18:26.614114"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Selling General And Administration",
+      "value": "7466800000",
+      "scraped_at": "2026-03-21T09:18:26.613568"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Special Income Charges",
+      "value": "-1875200000",
+      "scraped_at": "2026-03-21T09:18:26.606804"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Tax Effect Of Unusual Items",
+      "value": "301259520",
+      "scraped_at": "2026-03-21T09:18:26.446032"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Tax Provision",
+      "value": "116640900000",
+      "scraped_at": "2026-03-21T09:18:26.604638"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Tax Rate For Calcs",
+      "value": "0.2484",
+      "scraped_at": "2026-03-21T09:18:26.569188"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Total Expenses",
+      "value": "848295400000",
+      "scraped_at": "2026-03-21T09:18:26.594055"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Total Other Finance Cost",
+      "value": "2251800000",
+      "scraped_at": "2026-03-21T09:18:26.609360"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Total Revenue",
+      "value": "1242688700000",
+      "scraped_at": "2026-03-21T09:18:26.616848"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items",
+      "value": "1212800000",
+      "scraped_at": "2026-03-21T09:18:26.573367"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Total Unusual Items Excluding Goodwill",
+      "value": "1212800000",
+      "scraped_at": "2026-03-21T09:18:26.575317"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "Write Off",
+      "value": "1869900000",
+      "scraped_at": "2026-03-21T09:18:26.608116"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Payable",
+      "value": "102056300000",
+      "scraped_at": "2026-03-21T09:18:26.639268"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Accounts Receivable",
+      "value": "126093500000",
+      "scraped_at": "2026-03-21T09:18:26.657268"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Accumulated Depreciation",
+      "value": "-414046000000",
+      "scraped_at": "2026-03-21T09:18:26.647130"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Additional Paid In Capital",
+      "value": "11068100000",
+      "scraped_at": "2026-03-21T09:18:26.626347"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Available For Sale Securities",
+      "value": "189415100000",
+      "scraped_at": "2026-03-21T09:18:26.643754"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Buildings And Improvements",
+      "value": "84344300000",
+      "scraped_at": "2026-03-21T09:18:26.650049"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Lease Obligations",
+      "value": "2373300000",
+      "scraped_at": "2026-03-21T09:18:26.621908"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Capital Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.626901"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Cash And Cash Equivalents",
+      "value": "111606800000",
+      "scraped_at": "2026-03-21T09:18:26.659478"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Cash Equivalents And Short Term Investments",
+      "value": "363709500000",
+      "scraped_at": "2026-03-21T09:18:26.658374"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Equivalents",
+      "value": "14140200000",
+      "scraped_at": "2026-03-21T09:18:26.660025"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Cash Financial",
+      "value": "97466600000",
+      "scraped_at": "2026-03-21T09:18:26.660576"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock",
+      "value": "61627300000",
+      "scraped_at": "2026-03-21T09:18:26.627452"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Common Stock Equity",
+      "value": "991049200000",
+      "scraped_at": "2026-03-21T09:18:26.622455"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Construction In Progress",
+      "value": "249286200000",
+      "scraped_at": "2026-03-21T09:18:26.648229"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Assets",
+      "value": "961934200000",
+      "scraped_at": "2026-03-21T09:18:26.651740"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Capital Lease Obligation",
+      "value": "908700000",
+      "scraped_at": "2026-03-21T09:18:26.634858"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt",
+      "value": "15226500000",
+      "scraped_at": "2026-03-21T09:18:26.635417"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Debt And Capital Lease Obligation",
+      "value": "16135200000",
+      "scraped_at": "2026-03-21T09:18:26.634273"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Liabilities",
+      "value": "647416500000",
+      "scraped_at": "2026-03-21T09:18:26.632924"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Current Provisions",
+      "value": "62223500000",
+      "scraped_at": "2026-03-21T09:18:26.636518"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Dividends Payable",
+      "value": "166900000",
+      "scraped_at": "2026-03-21T09:18:26.638173"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Finished Goods",
+      "value": "101221100000",
+      "scraped_at": "2026-03-21T09:18:26.655047"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Goodwill And Other Intangible Assets",
+      "value": "90453800000",
+      "scraped_at": "2026-03-21T09:18:26.645449"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Gross Accounts Receivable",
+      "value": "126093500000",
+      "scraped_at": "2026-03-21T09:18:26.657820"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Gross PPE",
+      "value": "1464689900000",
+      "scraped_at": "2026-03-21T09:18:26.647679"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Inventories Adjustments Allowances",
+      "value": "-2946200000",
+      "scraped_at": "2026-03-21T09:18:26.654494"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Inventory",
+      "value": "126137000000",
+      "scraped_at": "2026-03-21T09:18:26.653942"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Invested Capital",
+      "value": "1080133200000",
+      "scraped_at": "2026-03-21T09:18:26.620245"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentin Financial Assets",
+      "value": "189415100000",
+      "scraped_at": "2026-03-21T09:18:26.643163"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Investmentsin Joint Venturesat Cost",
+      "value": "44159900000",
+      "scraped_at": "2026-03-21T09:18:26.644857"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Land And Improvements",
+      "value": "336823200000",
+      "scraped_at": "2026-03-21T09:18:26.650629"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Capital Lease Obligation",
+      "value": "1464600000",
+      "scraped_at": "2026-03-21T09:18:26.631278"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt",
+      "value": "73857500000",
+      "scraped_at": "2026-03-21T09:18:26.631823"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Debt And Capital Lease Obligation",
+      "value": "75322100000",
+      "scraped_at": "2026-03-21T09:18:26.630732"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Equity Investment",
+      "value": "44159900000",
+      "scraped_at": "2026-03-21T09:18:26.644307"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Long Term Provisions",
+      "value": "745315200000",
+      "scraped_at": "2026-03-21T09:18:26.632370"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Machinery Furniture Equipment",
+      "value": "458742500000",
+      "scraped_at": "2026-03-21T09:18:26.649372"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Minority Interest",
+      "value": "8457700000",
+      "scraped_at": "2026-03-21T09:18:26.624094"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Net PPE",
+      "value": "1050643900000",
+      "scraped_at": "2026-03-21T09:18:26.646580"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Net Tangible Assets",
+      "value": "900595400000",
+      "scraped_at": "2026-03-21T09:18:26.621357"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Assets",
+      "value": "2723600000",
+      "scraped_at": "2026-03-21T09:18:26.642056"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Revenue",
+      "value": "11742200000",
+      "scraped_at": "2026-03-21T09:18:26.629639"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Assets",
+      "value": "26947100000",
+      "scraped_at": "2026-03-21T09:18:26.642610"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Deferred Taxes Liabilities",
+      "value": "18319000000",
+      "scraped_at": "2026-03-21T09:18:26.630186"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Non Current Prepaid Assets",
+      "value": "10242300000",
+      "scraped_at": "2026-03-21T09:18:26.641503"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Ordinary Shares Number",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.618034"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Assets",
+      "value": "4006500000",
+      "scraped_at": "2026-03-21T09:18:26.652291"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Current Liabilities",
+      "value": "2927600000",
+      "scraped_at": "2026-03-21T09:18:26.633477"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Equity Interest",
+      "value": "929421900000",
+      "scraped_at": "2026-03-21T09:18:26.625201"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Intangible Assets",
+      "value": "90453800000",
+      "scraped_at": "2026-03-21T09:18:26.646023"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Assets",
+      "value": "61071000000",
+      "scraped_at": "2026-03-21T09:18:26.640924"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Non Current Liabilities",
+      "value": "70088700000",
+      "scraped_at": "2026-03-21T09:18:26.629090"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Payable",
+      "value": "153364500000",
+      "scraped_at": "2026-03-21T09:18:26.637619"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Properties",
+      "value": "238765000000",
+      "scraped_at": "2026-03-21T09:18:26.648777"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Receivables",
+      "value": "189000000",
+      "scraped_at": "2026-03-21T09:18:26.656149"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Other Short Term Investments",
+      "value": "252102700000",
+      "scraped_at": "2026-03-21T09:18:26.658930"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Payables",
+      "value": "288419600000",
+      "scraped_at": "2026-03-21T09:18:26.637069"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Pensionand Other Post Retirement Benefit Plans Current",
+      "value": "48281000000",
+      "scraped_at": "2026-03-21T09:18:26.635965"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Prepaid Assets",
+      "value": "200617200000",
+      "scraped_at": "2026-03-21T09:18:26.653389"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Properties",
+      "value": "96728700000",
+      "scraped_at": "2026-03-21T09:18:26.651190"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Raw Materials",
+      "value": "27859100000",
+      "scraped_at": "2026-03-21T09:18:26.655600"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Restricted Cash",
+      "value": "10238900000",
+      "scraped_at": "2026-03-21T09:18:26.652840"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Retained Earnings",
+      "value": "693967700000",
+      "scraped_at": "2026-03-21T09:18:26.625752"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Share Issued",
+      "value": "6162728327",
+      "scraped_at": "2026-03-21T09:18:26.618613"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Stockholders Equity",
+      "value": "991049200000",
+      "scraped_at": "2026-03-21T09:18:26.624650"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Tangible Book Value",
+      "value": "900595400000",
+      "scraped_at": "2026-03-21T09:18:26.619702"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Taxes Receivable",
+      "value": "105072000000",
+      "scraped_at": "2026-03-21T09:18:26.656697"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Assets",
+      "value": "2601983700000",
+      "scraped_at": "2026-03-21T09:18:26.639818"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Capitalization",
+      "value": "1064906700000",
+      "scraped_at": "2026-03-21T09:18:26.623001"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Debt",
+      "value": "91457300000",
+      "scraped_at": "2026-03-21T09:18:26.619159"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Equity Gross Minority Interest",
+      "value": "999506900000",
+      "scraped_at": "2026-03-21T09:18:26.623544"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Liabilities Net Minority Interest",
+      "value": "1602476800000",
+      "scraped_at": "2026-03-21T09:18:26.628000"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Assets",
+      "value": "1640049500000",
+      "scraped_at": "2026-03-21T09:18:26.640370"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Non Current Liabilities Net Minority Interest",
+      "value": "955060300000",
+      "scraped_at": "2026-03-21T09:18:26.628546"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Total Tax Payable",
+      "value": "32831900000",
+      "scraped_at": "2026-03-21T09:18:26.638722"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "bs_Working Capital",
+      "value": "314517700000",
+      "scraped_at": "2026-03-21T09:18:26.620806"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Amortization Cash Flow",
+      "value": "1559300000",
+      "scraped_at": "2026-03-21T09:18:26.678331"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Beginning Cash Position",
+      "value": "53454600000",
+      "scraped_at": "2026-03-21T09:18:26.662832"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Capital Expenditure",
+      "value": "-132929700000",
+      "scraped_at": "2026-03-21T09:18:26.661682"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Cash Dividends Paid",
+      "value": "-162385200000",
+      "scraped_at": "2026-03-21T09:18:26.665126"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Inventory",
+      "value": "-26829500000",
+      "scraped_at": "2026-03-21T09:18:26.675591"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Assets",
+      "value": "-65076800000",
+      "scraped_at": "2026-03-21T09:18:26.674486"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Other Current Liabilities",
+      "value": "34260000000",
+      "scraped_at": "2026-03-21T09:18:26.673885"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Payable",
+      "value": "18199800000",
+      "scraped_at": "2026-03-21T09:18:26.675039"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Receivables",
+      "value": "14914600000",
+      "scraped_at": "2026-03-21T09:18:26.676141"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Change In Working Capital",
+      "value": "-61921100000",
+      "scraped_at": "2026-03-21T09:18:26.673337"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Changes In Cash",
+      "value": "58148000000",
+      "scraped_at": "2026-03-21T09:18:26.663379"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation",
+      "value": "90047900000",
+      "scraped_at": "2026-03-21T09:18:26.678926"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Depreciation And Amortization",
+      "value": "91607200000",
+      "scraped_at": "2026-03-21T09:18:26.677780"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_End Cash Position",
+      "value": "111602600000",
+      "scraped_at": "2026-03-21T09:18:26.662279"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Financing Cash Flow",
+      "value": "-133085000000",
+      "scraped_at": "2026-03-21T09:18:26.663928"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Free Cash Flow",
+      "value": "159066900000",
+      "scraped_at": "2026-03-21T09:18:26.661126"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Gain Loss On Sale Of PPE",
+      "value": "5300000",
+      "scraped_at": "2026-03-21T09:18:26.680049"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Paid Cff",
+      "value": "-2251800000",
+      "scraped_at": "2026-03-21T09:18:26.664480"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Interest Received Cfi",
+      "value": "32622600000",
+      "scraped_at": "2026-03-21T09:18:26.668333"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Investing Cash Flow",
+      "value": "-100763600000",
+      "scraped_at": "2026-03-21T09:18:26.667701"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Business Purchase And Sale",
+      "value": "-966700000",
+      "scraped_at": "2026-03-21T09:18:26.669489"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Foreign Currency Exchange Gain Loss",
+      "value": "70300000",
+      "scraped_at": "2026-03-21T09:18:26.679478"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Income From Continuing Operations",
+      "value": "469661900000",
+      "scraped_at": "2026-03-21T09:18:26.680625"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Investment Purchase And Sale",
+      "value": "-25400000",
+      "scraped_at": "2026-03-21T09:18:26.668933"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Issuance Payments Of Debt",
+      "value": "32444600000",
+      "scraped_at": "2026-03-21T09:18:26.665794"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Long Term Debt Issuance",
+      "value": "17334300000",
+      "scraped_at": "2026-03-21T09:18:26.667071"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net PPE Purchase And Sale",
+      "value": "-132394100000",
+      "scraped_at": "2026-03-21T09:18:26.670591"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Net Short Term Debt Issuance",
+      "value": "15110300000",
+      "scraped_at": "2026-03-21T09:18:26.666438"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Operating Cash Flow",
+      "value": "291996600000",
+      "scraped_at": "2026-03-21T09:18:26.672239"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Other Non Cash Items",
+      "value": "-91279000000",
+      "scraped_at": "2026-03-21T09:18:26.676686"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Provisionand Write Offof Assets",
+      "value": "5406900000",
+      "scraped_at": "2026-03-21T09:18:26.677233"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of Business",
+      "value": "-966700000",
+      "scraped_at": "2026-03-21T09:18:26.670041"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Purchase Of PPE",
+      "value": "-132929700000",
+      "scraped_at": "2026-03-21T09:18:26.671690"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Sale Of PPE",
+      "value": "535600000",
+      "scraped_at": "2026-03-21T09:18:26.671139"
+    },
+    {
+      "year": 2025,
+      "source": "yahoo_historical",
+      "key": "cf_Taxes Refund Paid",
+      "value": "-118802200000",
+      "scraped_at": "2026-03-21T09:18:26.672788"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 131,
+      "year": 2025,
+      "standard": "ALL",
+      "status": "in_progress",
+      "total_questions": 151,
+      "answered_questions": 19,
+      "created_at": "2026-03-21T09:08:50.246903",
+      "updated_at": "2026-03-21T09:32:27.076917"
+    }
+  ],
+  "answers": [
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I01",
+      "module": "M01",
+      "indicator_name": "Company Identity & Registration",
+      "answer_value": "Coal India Ltd | COAL INDIA LIMITED | CIN: L23109WB1973GOI028844 | Year of incorporation: 2024 | Ticker: COALINDIA.NS | Listed on: NSI | https://www.coalindia.in | Kolkata, India | India | Shares outstanding: 6,162,728,327",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.95,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:50.468619"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I02",
+      "module": "M01",
+      "indicator_name": "Business Activities & Products",
+      "answer_value": "Energy | Thermal Coal | Coal India Limited, together with its subsidiaries, produces and sells coal and coal products in India. The company offers coking coal for steel making and metallurgical industries, as well as for hard coke manufacturing; semi coking coal for blend-able coal in steel making, merchant coke manufacturing, and other metallurgical industries; and non-coking coal for thermal grade coal for cement, fert | About Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns Key Points A Maharatna company Coal India was incorporated in 1975 as Coal Mines Authority Ltd after the nationalization of the coal sector. [1] It is a 'Mahara | Revenue per share: \u20b9210.316",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.85,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:50.626468"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I03",
+      "module": "M01",
+      "indicator_name": "Operational Footprint",
+      "answer_value": "Kolkata, India | India | Offices/locations: 197 offices",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.85,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:50.781927"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I04",
+      "module": "M01",
+      "indicator_name": "Reporting Scope & Boundary",
+      "answer_value": "Reporting currency: INR | Listed exchange: NSI | Book value per share: \u20b9171.077",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:50.991115"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I05",
+      "module": "M01",
+      "indicator_name": "Subsidiaries & Joint Ventures",
+      "answer_value": "Number of subsidiaries: 7 subsidiaries | Total debt: \u20b9137.86B",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:51.141707"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I06",
+      "module": "M01",
+      "indicator_name": "Stakeholder Identification & Engagement",
+      "answer_value": "Stakeholder portal: https://www.coalindia.in",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.5,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:51.341023"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M01-I07",
+      "module": "M01",
+      "indicator_name": "Value Chain Mapping",
+      "answer_value": "Business overview: Coal India Limited, together with its subsidiaries, produces and sells coal and coal products in India. The company offers coking coal for steel making and metallurgical industries, as well as for hard coke manufacturing; semi coking coal for blend-able coal in steel making, merchant coke manufactur | Industry: Thermal Coal",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.5,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:51.511097"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I01",
+      "module": "M02",
+      "indicator_name": "Sustainability Policies & Commitments",
+      "answer_value": "ISO 14001: ISO 14001 ISO 14001 certified | OHS certification: ISO 45001 OHS certified | Energy certification: ISO 50001 ISO 50001 certified | See sustainability section at https://www.coalindia.in",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:08:51.664599"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I03",
+      "module": "M02",
+      "indicator_name": "Certifications & Standards Adopted",
+      "answer_value": "Environmental: ISO 14001 ISO 14001 certified | OHS: ISO 45001 OHS certified | Energy management: ISO 50001 ISO 50001 certified",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:10:06.896159"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M02-I07",
+      "module": "M02",
+      "indicator_name": "KPI Reporting Standards & Frameworks",
+      "answer_value": "Currency used: INR | Listed on: NSI",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.85,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:10:52.110047"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I01",
+      "module": "M03",
+      "indicator_name": "Board Oversight of ESG",
+      "answer_value": "Independent directors: 5 count",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:11:07.640485"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M03-I06",
+      "module": "M03",
+      "indicator_name": "Tax Governance & Transparency",
+      "answer_value": "Tax expense: \u20b9116.64B | Effective tax rate: 24.8% | Reporting currency: INR",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.88,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:12:07.944629"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M04-I02",
+      "module": "M04",
+      "indicator_name": "Climate-Related Financial Risks & Opportunities",
+      "answer_value": "Market beta (volatility indicator): -0.024",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.6,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:13:08.198443"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M06-I07",
+      "module": "M06",
+      "indicator_name": "Energy Efficiency Initiatives",
+      "answer_value": "R&D investment (includes energy tech): \u20b92.21B",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.55,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:17:53.765019"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M14-I01",
+      "module": "M14",
+      "indicator_name": "Employment & Workforce Data",
+      "answer_value": "Total permanent employees: 225 count | Male employees: 200263 count | 220,272",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.95,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:30:10.939357"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M14-I02",
+      "module": "M14",
+      "indicator_name": "Employee Turnover & Retention",
+      "answer_value": "Employee turnover rate: 14 %",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.9,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:30:11.100676"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M14-I03",
+      "module": "M14",
+      "indicator_name": "Wages & Minimum Wage Compliance",
+      "answer_value": "Total employees: 220,272 | SG&A (includes employee costs): \u20b97.47B",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.7,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:30:11.230182"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M14-I09",
+      "module": "M14",
+      "indicator_name": "Human Rights Training & Awareness",
+      "answer_value": "Employees to be trained: 225 count",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.55,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:31:26.681383"
+    },
+    {
+      "session_id": 131,
+      "year": 2025,
+      "indicator_id": "IMP-M15-I01",
+      "module": "M15",
+      "indicator_name": "OHS Management System",
+      "answer_value": "OHS certification: ISO 45001 OHS certified | Employees covered: 225 count",
+      "answer_unit": "",
+      "source": "scraped",
+      "confidence": 0.92,
+      "is_verified": false,
+      "updated_at": "2026-03-21T09:32:27.080008"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 74,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "Pipeline timed out during scrape/download",
+      "started_at": "2026-03-21T09:18:05.200156",
+      "finished_at": "2026-03-21T09:33:07.499243"
+    },
+    {
+      "id": 73,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "cleared_for_unbuffered_retest",
+      "started_at": "2026-03-21T09:14:11.898501",
+      "finished_at": "2026-03-21T09:15:56.904429+00:00"
+    },
+    {
+      "id": 72,
+      "year": 2025,
+      "status": "ERROR",
+      "error_msg": "stale_fetching_cleared",
+      "started_at": "2026-03-21T09:03:39.175669",
+      "finished_at": "2026-03-21T09:14:11.519189"
+    }
+  ]
+}

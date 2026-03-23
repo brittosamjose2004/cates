@@ -1,0 +1,19 @@
+[2026-03-21 09:18:05] Started pipeline for company='COAL INDIA LIMITED', years=[2025], all_years=False
+[2026-03-21 09:18:05] Running command: C:\Users\britt\AppData\Local\Python\pythoncore-3.14-64\python.exe -u C:\Users\britt\Downloads\new_sap-main\new_sap-main\run_all.py --batch --companies COAL INDIA LIMITED --year 2025 --years 2025 --nse-symbol COALINDIA.NS --company-id 32
+[2026-03-21 09:18:05] run_all timeout budget: 900s
+[2026-03-21 09:19:06] run_all still running... elapsed=60s
+[2026-03-21 09:20:07] run_all still running... elapsed=120s
+[2026-03-21 09:21:06] run_all still running... elapsed=180s
+[2026-03-21 09:22:07] run_all still running... elapsed=240s
+[2026-03-21 09:23:06] run_all still running... elapsed=300s
+[2026-03-21 09:24:07] run_all still running... elapsed=360s
+[2026-03-21 09:25:06] run_all still running... elapsed=420s
+[2026-03-21 09:26:07] run_all still running... elapsed=480s
+[2026-03-21 09:27:06] run_all still running... elapsed=540s
+[2026-03-21 09:28:07] run_all still running... elapsed=600s
+[2026-03-21 09:29:06] run_all still running... elapsed=660s
+[2026-03-21 09:30:07] run_all still running... elapsed=720s
+[2026-03-21 09:31:06] run_all still running... elapsed=780s
+[2026-03-21 09:32:07] run_all still running... elapsed=840s
+[2026-03-21 09:33:06] run_all still running... elapsed=900s
+[2026-03-21 09:33:07] Pipeline timed out during scrape/download

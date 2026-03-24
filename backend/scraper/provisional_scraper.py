@@ -86,23 +86,23 @@ class ProvisionalWebScraper:
         if query in self._query_cache:
             return self._query_cache[query]
 
-        url = f"https://duckduckgo.com/html/?q={quote(query)}"
+        url = f"https://www.bing.com/search?q={quote(query)}"
         try:
             resp = requests.get(url, headers=self.HEADERS, timeout=15)
             if resp.status_code != 200:
                 return []
             soup = BeautifulSoup(resp.text, "lxml")
             hits: List[Dict[str, str]] = []
-            for item in soup.select(".result")[:max_results]:
-                link = item.select_one("a.result__a")
-                snippet = item.select_one(".result__snippet")
-                if not link:
+            for item in soup.select("li.b_algo")[:max_results]:
+                a = item.select_one("h2 a")
+                snippet = item.select_one(".b_caption p")
+                if not a or not a.get("href"):
                     continue
-                href = self._extract_real_url((link.get("href") or "").strip())
+                href = self._extract_real_url((a.get("href") or "").strip())
                 if not href.startswith("http"):
                     continue
                 hits.append({
-                    "title": link.get_text(" ", strip=True),
+                    "title": a.get_text(" ", strip=True),
                     "url": href,
                     "snippet": snippet.get_text(" ", strip=True) if snippet else "",
                 })
